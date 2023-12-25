@@ -41,9 +41,6 @@ def is_ref(matrix: list) -> bool:
     # First check:
     # If a row does not entirely consists of
     # zeros, than the first non zero number is 1.
-    # import pdb;pdb.set_trace()
-    # for row in matrix:
-    #     print(row)
     
     # import pdb;pdb.set_trace()
     for row in matrix:
@@ -137,7 +134,8 @@ def matrix_to_ref(matrix: list) -> list:
         for j in range(n):
             matrix[row][j] += multiplier * matrix[0][j]
     
-    
+    # Step 5: now first row is done, assume that it does not exist and repeat steps
+    # 1 through 4 for the remaining rows.
     while not is_ref(matrix):
         print(f'matrix: {matrix}')
         matrix = [matrix[0]] + matrix_to_ref(matrix[1:])

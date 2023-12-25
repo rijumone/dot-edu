@@ -1,3 +1,4 @@
+import random
 import numpy as np
 
 
@@ -50,6 +51,33 @@ def cholesky_decomposition(matrix):
 
     return L
 
+
+def dot_product(vec1, vec2):
+    return sum(x * y for x, y in zip(vec1, vec2))
+
+def norm(vector):
+    return sum(x ** 2 for x in vector) ** 0.5
+
+def generate_random_matrix(rows, cols):
+    return [[round(random.uniform(-999.9, 999.9), 4) for _ in range(cols)] for _ in range(rows)]
+
+def gram_schmidt_qr_decomposition(matrix):
+    m, n = len(matrix), len(matrix[0])
+    Q = [[0.0] * n for _ in range(m)]
+    R = [[0.0] * n for _ in range(n)]
+
+    for j in range(n):
+        v = matrix[j]
+        for i in range(j):
+            R[i][j] = dot_product(Q[i], matrix[j])
+            v = [x - R[i][j] * q for x, q in zip(v, Q[i])]
+
+        R[j][j] = norm(v)
+        Q[j] = [x / R[j][j] for x in v]
+
+    return Q, R
+
+
 def main():
     matrix_A = [
         [5, 1, 2],
@@ -94,6 +122,22 @@ def main():
         print("\nVerification: A = LL^T (Cholesky Decomposition is Correct)")
     else:
         print("\nVerification: A != LL^T (Cholesky Decomposition is Incorrect)")
+
+
+    # Generate a randomly populated matrix with real numbers up to 4 digits in length
+    matrix_A = generate_random_matrix(5, 4)
+
+    # Perform Gram-Schmidt QR decomposition
+    Q_result, R_result = gram_schmidt_qr_decomposition(matrix_A)
+
+    # Display the matrices Q and R
+    print("Matrix Q (Gram-Schmidt orthogonalization):")
+    for row in Q_result:
+        print(row)
+
+    print("\nMatrix R (Upper triangular matrix):")
+    for row in R_result:
+        print(row)
 
 
 if __name__ == '__main__':
