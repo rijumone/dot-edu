@@ -7,7 +7,8 @@ Deliverables: The code snippet showing the procedure for REF and RREF. (1 mark +
 """
 
 
-import pdb
+from random import randint, uniform
+import numpy as np
 
 
 def construct_augmented_matrix(A, B):
@@ -22,7 +23,7 @@ def construct_augmented_matrix(A, B):
 
     augmented_matrix = []
     for i in range(m):
-        row = A[i] + [B[i][0]]
+        row = A[i] + [B[i][0] * -1]
         augmented_matrix.append(row)
 
     return augmented_matrix
@@ -47,7 +48,7 @@ def is_ref(matrix: list) -> bool:
     # import pdb;pdb.set_trace()
     for row in matrix:
         check_one_passed = False
-        if len(row) != len([_ for _ in row if int(_) == 0]):
+        if len(row) != len([_ for _ in row if int(_) in [0, -0, 0.0, -0.0]]):
             for element in row:
                 if element in [0, 0.0, -0, -0.0]:
                     continue
@@ -65,7 +66,7 @@ def is_ref(matrix: list) -> bool:
     # All zero rows should be on the bottom of the matrix
     idx_first_zero_row = -1
     for idx, row in enumerate(matrix):
-        if len(row) == len([_ for _ in row if int(_) == 0]):
+        if len(row) == len([_ for _ in row if int(_) in [0, -0, 0.0, -0.0]]):
             idx_first_zero_row = idx
         else:
             if idx < idx_first_zero_row:
@@ -103,13 +104,14 @@ def matrix_to_ref(matrix: list) -> list:
     # Step 1: Locate the leftmost column that does not contain entirely of zeros.
     non_zero_column = 0
     for j in range(n):
-        if len([matrix[i][j] for i in range(m) if matrix[i][j] == 0]) != m:
+        if len([matrix[i][j] for i in range(m) if matrix[i][j] in [0, -0, 0.0, -0.0]]) != m:
             non_zero_column = j
             break
     
     non_zero_row = 0
+    
     # Step 2: interchange top row with a row w/ non zero element if needed
-    if matrix[0][non_zero_column] == 0:
+    if matrix[0][non_zero_column] in [0, -0, 0.0, -0.0]:
         # find non zero row
         non_zero_row = 1
         for i in range(1,m):
@@ -128,7 +130,7 @@ def matrix_to_ref(matrix: list) -> list:
     # Step 4: add suitable multiples of the top row to the bottom rows so that all
     # the entries below the leading 1 become 0
     for row in range(1, m):
-        if matrix[row][non_zero_column] == 0:
+        if matrix[row][non_zero_column] in [0, -0, 0.0, -0.0]:
             continue
         # find multiplier
         multiplier = matrix[row][non_zero_column] / matrix[0][non_zero_column] * -1
@@ -164,6 +166,7 @@ def ref_to_rref(matrix: list) -> list:
 
     return matrix
     
+
 def identify_pivot_non_pivot_cols(matrix: list) -> (list, list):
     """Given a matrix in its REF or RREF form, identify and return
     the indices of the pivot columns. Pivot columns are those which have
@@ -187,6 +190,54 @@ def identify_pivot_non_pivot_cols(matrix: list) -> (list, list):
         if is_pivot:    pivot_cols.append(j)
         else:   non_pivot_cols.append(j)
     return pivot_cols, non_pivot_cols
+
+
+def calculate_particular_solution(rref_matrix, pivot_indices):
+    particular_solution = [0] * len(rref_matrix[0])
+
+    # Create the particular solution using values from the RREF matrix
+    for idx, pivot_col in enumerate(pivot_indices):
+        if pivot_col < len(rref_matrix):
+            particular_solution[pivot_col] = rref_matrix[idx][-1]
+
+    return particular_solution
+
+
+def calculate_homogeneous_solutions(rref_matrix, pivot_indices):
+    num_variables = len(rref_matrix[0])
+    num_equations = len(rref_matrix)
+    
+    # Determine the free variables
+    free_variables = [col for col in range(num_variables) if col not in pivot_indices]
+
+    # Initialize solutions
+    solutions = []
+
+    for _ in range(len(free_variables)):
+        solution = [0] * num_variables
+        for pivot_idx in pivot_indices:
+            if pivot_idx < num_equations:  # Check if pivot_idx is within the bounds
+                solution[pivot_idx] = rref_matrix[pivot_idx][free_variables[_]]
+        solution[free_variables[_]] = 1
+        solutions.append(solution)
+
+    return solutions
+
+
+def validate_homogeneous_solutions(rref_matrix, solutions, tolerance=1e-10):
+    A = np.array(rref_matrix)
+    validated_solutions = []
+
+    for sol in solutions:
+        x = np.array(sol)
+        Ax = np.dot(A, x)
+        
+        # Check if Ax is approximately zero
+        import pdb;pdb.set_trace()
+        if np.allclose(Ax, np.zeros_like(Ax), atol=tolerance):
+            validated_solutions.append(sol)
+
+    return validated_solutions
 
 def main2():
     pivot_cols, non_pivot_cols = identify_pivot_non_pivot_cols([
@@ -212,12 +263,20 @@ def main1():
 def main():
     # Example usage:
     # Define matrix A and vector B
-    matrix_A = [[0, 0, -2, 0, 7],
-                [2, 4, -10, 6, 12],
-                [2, 4, -5, 6, -5]]
-    vector_B = [[12],
-                [28],
-                [-1]]
+    # matrix_A = [[0, 0, -2, 0, 7],
+    #             [2, 4, -10, 6, 12],
+    #             [2, 4, -5, 6, -5]]
+    # vector_B = [[12],
+    #             [28],
+    #             [-1]]
+    # matrix_A = [[1, 3, 0, 0],
+    #             [0, 0, 1, 0],
+    #             [0, 0, 0, 1]]
+    # vector_B = [[-3],
+    #             [-9],
+    #             [4]]
+    matrix_A = [[randint(1999, 9999) for _ in range(7)] for _ in range(5)]
+    vector_B = [[randint(1999, 9999) for _ in range(1)] for _ in range(5)]
 
     # Construct the augmented matrix
     augmented_matrix = construct_augmented_matrix(matrix_A, vector_B)
@@ -243,10 +302,20 @@ def main():
     for row in rref_matrix:
         print(row)
 
+    pivot, non_pivot = identify_pivot_non_pivot_cols(rref_matrix)
+    print(f'pivot, non_pivot: {pivot, non_pivot}')
+
+    particular_solution = calculate_particular_solution(rref_matrix, pivot_indices=pivot)
+    print(f'particular_solution: {particular_solution}')
+
+    homogeneous_solutions = calculate_homogeneous_solutions(rref_matrix, pivot_indices=pivot)
+    print(f'homogeneous_solutions: {homogeneous_solutions}')
+    
+
 
 
 
 if __name__ == '__main__':
-    # main()
+    main()
     # main1()
-    main2()
+    # main2()
