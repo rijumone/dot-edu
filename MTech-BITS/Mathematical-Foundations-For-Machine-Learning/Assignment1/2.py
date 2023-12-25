@@ -37,11 +37,24 @@ def lu_decomposition(matrix):
     return L, U
 
 
+def cholesky_decomposition(matrix):
+    n = len(matrix)
+    L = np.zeros((n, n))
+
+    for i in range(n):
+        for j in range(i+1):
+            if i == j:
+                L[i][j] = np.sqrt(matrix[i][i] - sum(L[i][k] ** 2 for k in range(j)))
+            else:
+                L[i][j] = (1.0 / L[j][j] * (matrix[i][j] - sum(L[i][k] * L[j][k] for k in range(j))))
+
+    return L
+
 def main():
     matrix_A = [
-        [4, 3, -2],
-        [8, 5, 2],
-        [4, 6, 5]
+        [5, 1, 2],
+        [1, 6, 3],
+        [2, 3, 7]
     ]
 
     # Perform LU decomposition
@@ -69,6 +82,18 @@ def main():
         print("LU decomposition is correct: A = LU")
     else:
         print("LU decomposition is incorrect: A != LU")
+
+    # Compute Cholesky decomposition
+    L_result = cholesky_decomposition(matrix_A)
+    print("Lower Triangular Matrix L (Cholesky Decomposition):")
+    print(L_result)
+
+    # Verify A = LL^T
+    verification_result = np.allclose(matrix_A, np.dot(L_result, np.transpose(L_result)))
+    if verification_result:
+        print("\nVerification: A = LL^T (Cholesky Decomposition is Correct)")
+    else:
+        print("\nVerification: A != LL^T (Cholesky Decomposition is Incorrect)")
 
 
 if __name__ == '__main__':
