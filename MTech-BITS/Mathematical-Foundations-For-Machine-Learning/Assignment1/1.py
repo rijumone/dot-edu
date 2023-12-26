@@ -222,6 +222,28 @@ def calculate_homogeneous_solutions(rref_matrix, pivot_indices):
     return solutions
 
 
+def find_nullspace_solutions(rref_matrix, pivot_indices):
+    num_variables = len(rref_matrix[0])
+    pivot_set = set(pivot_indices)
+    free_variables = [i for i in range(num_variables) if i not in pivot_set]
+
+    solutions = []
+    for free_var in free_variables:
+        solution = [0] * num_variables
+        solution[free_var] = 1  # Setting the free variable as 1
+        
+        for pivot_col, row_idx in zip(pivot_indices, range(len(rref_matrix))):
+            coefficient = -rref_matrix[row_idx][free_var]
+            if pivot_col < free_var:
+                solution[pivot_col] = coefficient
+            elif pivot_col > free_var:
+                solution[pivot_col] = coefficient
+                break  # We've covered all relevant rows for this variable
+
+        solutions.append(solution)
+
+    return solutions
+
 def validate_homogeneous_solutions(rref_matrix, solutions, tolerance=1e-10):
     A = np.array(rref_matrix)
     validated_solutions = []
@@ -236,6 +258,31 @@ def validate_homogeneous_solutions(rref_matrix, solutions, tolerance=1e-10):
             validated_solutions.append(sol)
 
     return validated_solutions
+
+def general_solution_from_rref(rref_matrix, pivot_indices):
+    num_variables = len(rref_matrix[0])
+    num_equations = len(rref_matrix)
+    free_variables = [i for i in range(num_variables) if i not in pivot_indices]
+
+    # Initialize a dictionary to store the solutions
+    solutions = {var: 0 for var in range(num_variables)}
+
+    for row_idx in range(num_equations - 1, -1, -1):
+        pivot_idx = next((i for i in range(num_variables) if rref_matrix[row_idx][i] != 0), None)
+        if pivot_idx is not None:
+            pivot_value = rref_matrix[row_idx][pivot_idx]
+            solutions[pivot_idx] = rref_matrix[row_idx][-1] / pivot_value
+
+            # Express other variables in terms of the pivot variables
+            for col_idx in range(pivot_idx + 1, num_variables - 1):
+                if rref_matrix[row_idx][col_idx] != 0:
+                    solutions[pivot_idx] -= (rref_matrix[row_idx][col_idx] / pivot_value) * solutions[col_idx]
+
+    # Express free variables in terms of parameters
+    for free_var in free_variables:
+        solutions[free_var] = f"t{free_var}"  # Using 't' as parameter for free variables
+
+    return solutions
 
 def main2():
     pivot_cols, non_pivot_cols = identify_pivot_non_pivot_cols([
@@ -267,20 +314,26 @@ def main():
     # vector_B = [[12],
     #             [28],
     #             [-1]]
-    # matrix_A = [[1, 3, 0, 0],
-    #             [0, 0, 1, 0],
-    #             [0, 0, 0, 1]]
-    # vector_B = [[-3],
-    #             [-9],
-    #             [4]]
-    matrix_A = [[randint(1999, 9999) for _ in range(7)] for _ in range(5)]
-    vector_B = [[randint(1999, 9999) for _ in range(1)] for _ in range(5)]
+    matrix_A = [[1, 3, 0, 0],
+                [0, 0, 1, 0],
+                [0, 0, 0, 1]]
+    vector_B = [[-3],
+                [-9],
+                [4]]
+    # matrix_A = [[randint(1999, 9999) for _ in range(7)] for _ in range(5)]
+    # vector_B = [[randint(1999, 9999) for _ in range(1)] for _ in range(5)]
+    # print(f'matrix_A: {matrix_A}')
+    # print(f'vector_B: {vector_B}')
+    # matrix_A = [[4019, 9796, 8875, 4448, 6389, 9727, 9190], [4764, 6676, 5914, 5567, 4008, 2200, 8640], [5416, 6205, 4908, 4388, 2909, 3141, 3140], [2157, 4998, 7291, 2342, 5476, 9212, 3081], [4310, 9821, 8055, 2641, 3648, 8580, 7573]]
+    # vector_B = [[8564], [6481], [6778], [9615], [8554]]
+    
 
     # Construct the augmented matrix
     augmented_matrix = construct_augmented_matrix(matrix_A, vector_B)
     print("Augmented matrix:")
     for row in augmented_matrix:
         print(row)
+    # import pdb;pdb.set_trace()
 
     is_ref_o = is_ref(matrix=augmented_matrix)
     print(is_ref_o)
@@ -308,6 +361,12 @@ def main():
 
     homogeneous_solutions = calculate_homogeneous_solutions(rref_matrix, pivot_indices=pivot)
     print(f'homogeneous_solutions: {homogeneous_solutions}')
+    
+    nullspace_solutions = find_nullspace_solutions(rref_matrix, pivot_indices=pivot)
+    print(f'nullspace_solutions: {nullspace_solutions}')
+    
+    general_solutions = general_solution_from_rref(rref_matrix, pivot_indices=pivot)
+    print(f'general_solutions: {general_solutions}')
     
 
 
