@@ -15,14 +15,14 @@ This code implements a genetic algorithm to solve the travelling salesman proble
 
 
 import random
-# from math import inf
+from datetime import datetime
 from dataclasses import dataclass
 # from loguru import logger
 
 
 
 max = 999
-START_BLOODBANK = 'A'
+START_BLOODBANK = 'E'
 END_BLOODBANK = 'H'
 
 
@@ -51,7 +51,7 @@ position = {
     "H": 6,
 }
 
-graph = [
+distances = [
     #   A,  B,   C,  D,   E,   F,   H
     [   0,  5,   8,  max, max, max, max, ],    # A
     [   5,  0,   7,  6,   10,  max, 8,   ],    # B 
@@ -80,12 +80,9 @@ def fitness(path):
     total_distance = 0
     for i in range(len(path)-1):
         # if there is no path between the two bloodbanks return max, else add it to the total distance travelled.
-        try:
-            if graph[position[path[i]]][position[path[i+1]]] == max:
-                return max
-        except KeyError:
-            import pdb;pdb.set_trace()
-        total_distance += graph[position[path[i]]][position[path[i+1]]]
+        if distances[position[path[i]]][position[path[i+1]]] == max:
+            return max
+        total_distance += distances[position[path[i]]][position[path[i+1]]]
     return total_distance
 
 
@@ -184,53 +181,48 @@ def init_population(population_size, bloodbanks):
 # Main Function
 
 def main():
+    space_complexity_ctr = 0
+    start_time = datetime.now()
     # Initialize a population.
     population = init_population(population_size, position.keys())
-
     current_gen = 0
-
-    # fittest = []
 
     # Apply genetic algorithm until a maximum number of generations is reached or the population score is greater than threshhold.
     while True:
         current_gen += 1
+        space_complexity_ctr += len(population)
         score = calc_total_population_score(population)
         print("\n\nGeneration: ", current_gen)
         print("Score: ", score)
         # import pdb;pdb.set_trace()
         fittest_genomes = tournament_selection(population, selection_pressure)
+        space_complexity_ctr += len(fittest_genomes)
 
         # Print Fittest Genomes after selection.
         print("\nFittest Genomes:\nPATH\t\tFITNESS")
         for _ in fittest_genomes:
             print(_.path, "\t", _.fitness)
 
-        new_generation = []
-        possible_parents = []
-
-        for i in range(len(fittest_genomes)):
-            possible_parents.append(i)
-
+        population = [] # resetting population to create next gen population
         for i in range(population_size-len(fittest_genomes)):
-
-            parent_1, parent_2 = random.sample(possible_parents, 2)
+            parent_1, parent_2 = random.sample(list(range(len(fittest_genomes))), 2)
             new_offspring = apply_ordered_crossover(
                 fittest_genomes[parent_1], fittest_genomes[parent_2], 1, 5)
             mutated_new_offspring = apply_mutation(new_offspring)
-            new_generation.append(mutated_new_offspring)
+            population.append(mutated_new_offspring)
 
         for i in range(len(fittest_genomes)):
             mutated_new_offspring = apply_mutation(fittest_genomes[i])
-            new_generation.append(mutated_new_offspring)
+            population.append(mutated_new_offspring)
 
         # Print the new generation.
         print("\nNew Generation:\nPATH\t\tFITNESS")
-        for i in new_generation:
+        for i in population:
             print(i.path, "\t", i.fitness)
 
         # Stopping Criterion.
-        if (score <= threshhold or current_gen >= max_generations):
-
+        if (score < threshhold or current_gen >= max_generations):
+            # import pdb;pdb.set_trace()
             # Print the generation number and the shorted distance found by the genetic algorithm.
             print("\n\nGeneration: ", current_gen, "/", max_generations)
             fittest_genomes.sort(key=lambda x: x.fitness)
@@ -238,8 +230,8 @@ def main():
                   fittest_genomes[0].path, fittest_genomes[0].fitness)
             break
 
-        population = new_generation
-        
+    print(f'\nSpace Complexity: \t{space_complexity_ctr}')
+    print(f'\nTime Complexity: \t{datetime.now() - start_time}')
 
 
 if __name__ == "__main__":
