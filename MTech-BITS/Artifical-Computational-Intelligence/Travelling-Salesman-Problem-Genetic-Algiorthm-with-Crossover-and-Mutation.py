@@ -15,9 +15,9 @@ This code implements a genetic algorithm to solve the travelling salesman proble
 
 
 import random
+from math import inf
 from datetime import datetime
 from dataclasses import dataclass
-# from loguru import logger
 
 
 
@@ -36,9 +36,6 @@ convergence_rate = 0.86
 threshhold = population_size * max * convergence_rate
 
 
-# Initialize Graph.
-
-total_bloodbanks = 7
 
 
 position = {
@@ -53,13 +50,13 @@ position = {
 
 distances = [
     #   A,  B,   C,  D,   E,   F,   H
-    [   0,  5,   8,  max, max, max, max, ],    # A
-    [   5,  0,   7,  6,   10,  max, 8,   ],    # B 
-    [   8,  7,   0,  max, max, 12,  max, ],    # C
-    [ max,  6, max,  0,   max, max, 10,  ],    # D
-    [ max, 10, max,  max, 0,   9,   18   ],    # E
-    [ max, max, 12,  max, 9,   0,   max  ],    # F
-    [ max,  8, max,  10,  18,  max, 0    ],    # H
+    [   0,  5,   8,  inf, inf, inf, inf, ],    # A
+    [   5,  0,   7,  6,   10,  inf, 8,   ],    # B 
+    [   8,  7,   0,  inf, inf, 12,  inf, ],    # C
+    [ inf,  6, inf,  0,   inf, inf, 10,  ],    # D
+    [ inf, 10, inf,  inf, 0,   9,   18   ],    # E
+    [ inf, inf, 12,  inf, 9,   0,   inf  ],    # F
+    [ inf,  8, inf,  10,  18,  inf, 0    ],    # H
 ]
 
 
@@ -80,7 +77,7 @@ def fitness(path):
     total_distance = 0
     for i in range(len(path)-1):
         # if there is no path between the two bloodbanks return max, else add it to the total distance travelled.
-        if distances[position[path[i]]][position[path[i+1]]] == max:
+        if distances[position[path[i]]][position[path[i+1]]] is inf:
             return max
         total_distance += distances[position[path[i]]][position[path[i+1]]]
     return total_distance
