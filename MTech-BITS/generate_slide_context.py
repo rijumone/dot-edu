@@ -56,7 +56,10 @@ def pdf_to_text(pdf_file):
                 cleaned_response = json.loads(response.text).get('response').rstrip('\n')
             except AttributeError:
                 cleaned_response = 'Unable to generate output'
-            print(f"Slide {page_num+1}: {cleaned_response}")
+            write_this = f"Slide {page_num+1}: {cleaned_response}"
+            print(write_this)
+            with open(pdf_file.replace('.pdf', '.txt'), 'a') as f:
+                f.write(write_this + '\n')
 
         page_num += 1
 
