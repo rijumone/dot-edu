@@ -52,7 +52,10 @@ def pdf_to_text(pdf_file):
                 "stream": False
             })
             response = requests.request("POST", url, headers=headers, data=payload)
-            cleaned_response = json.loads(response.text).get('response').rstrip('\n')
+            try:
+                cleaned_response = json.loads(response.text).get('response').rstrip('\n')
+            except AttributeError:
+                cleaned_response = 'Unable to generate output'
             print(f"Slide {page_num+1}: {cleaned_response}")
 
         page_num += 1
