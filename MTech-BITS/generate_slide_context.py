@@ -5,6 +5,22 @@ import json
 
 url = "http://192.168.1.16:11434/api/generate"
 
+ALL_SUBJECT_TOKENS = {
+    'DRL': """Here is the formatted version in Markdown:
+# 1. Introduction: Introducing RL
+# 2. MDP: Framework
+# 3. Approaches to Solving Reinforcement Problems
+# 4. Discussion on the Classification of (Deep) Reinforcement Learning Approaches, Algorithms, and Applications
+# 5. Value-Based DRL Methods
+# 6. Policy Gradients Methods
+# 7. Model-Based Deep RL
+# 8. Imitation Learning
+# 9. Multi-Agent RL
+# 10. (Optional Content) Special Topics
+# 11. Course Summary
+"""
+}
+
 
 headers = {
   'Content-Type': 'application/json'
@@ -27,7 +43,8 @@ def pdf_to_text(pdf_file):
         if text:  # If there is text on the page, print it
             # print(f":")
             # print(text)
-            pre_prompt = 'Name the topic being discussed in the following text in 10 words or less.\n'
+            # pre_prompt = f'Name the topic being discussed in the following text in 10 words or less. Also from assign one single category to the topic among these.: \n{ALL_SUBJECT_TOKENS["DRL"]}\n . Output in one single line.\n'
+            pre_prompt = f'Name the topic being discussed in the following text in 10 words or less. Just output the topic text, don\'t format it or say any additional text.\n'
             payload = json.dumps({
                 # "model": "llama3.1:latest",
                 "model": "gemma2:latest",
@@ -35,7 +52,8 @@ def pdf_to_text(pdf_file):
                 "stream": False
             })
             response = requests.request("POST", url, headers=headers, data=payload)
-            print(f"Page {page_num+1}: {json.loads(response.text).get('response').rstrip('\n')}")
+            cleaned_response = json.loads(response.text).get('response').rstrip('\n')
+            print(f"Page {page_num+1}: {cleaned_response}")
 
         page_num += 1
 
