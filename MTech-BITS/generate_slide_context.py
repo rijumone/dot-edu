@@ -53,7 +53,7 @@ def pdf_to_text(pdf_file):
             })
             response = requests.request("POST", url, headers=headers, data=payload)
             cleaned_response = json.loads(response.text).get('response').rstrip('\n')
-            print(f"Page {page_num+1}: {cleaned_response}")
+            print(f"Slide {page_num+1}: {cleaned_response}")
 
         page_num += 1
 
