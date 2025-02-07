@@ -1,0 +1,1501 @@
+Tower_ID,Signal_Strength(dBm),Network_Traffic(MB),Latency(ms),User_Count,Device_Type
+Tower_8,-66,430.07,770,232,IoT Device
+Tower_80,-79,495.16,485,337,Laptop
+Tower_72,-63,269.3,20,326,IoT Device
+Tower_55,-84,12.13,503,467,Tablet
+Tower_69,-44,93.6,575,15,Smartphone
+Tower_85,-77,303.31,181,5,Tablet
+Tower_28,-42,383.43,241,489,Smartphone
+Tower_52,-50,364.64,683,135,IoT Device
+Tower_16,-67,62.75,215,396,IoT Device
+Tower_34,-40,338.2,408,152,Tablet
+Tower_19,-62,67.85,757,85,IoT Device
+Tower_13,-41,48.25,321,122,Smartphone
+Tower_3,-79,133.19,716,185,Smartphone
+Tower_90,-53,487.4,788,395,Smartphone
+Tower_95,-67,399.68,379,375,Tablet
+Tower_35,-50,159.66,203,205,IoT Device
+Tower_37,-74,226.96,494,144,Smartphone
+Tower_75,-30,323.88,812,164,Tablet
+Tower_22,-36,274.41,907,5,Smartphone
+Tower_24,-44,392.1,424,215,Smartphone
+Tower_81,-88,106.71,481,298,Laptop
+Tower_99,-41,211.48,989,85,Laptop
+Tower_91,-42,128.79,321,466,Tablet
+Tower_32,-78,247.85,224,369,Smartphone
+Tower_100,-56,364.41,500,429,Laptop
+Tower_29,-62,436.15,329,100,Smartphone
+Tower_30,-82,336.7,726,125,Tablet
+Tower_59,-82,91.23,465,234,Smartphone
+Tower_9,-52,180.23,826,86,Laptop
+Tower_58,-61,477.14,627,329,Smartphone
+Tower_30,-59,262.74,893,96,Tablet
+Tower_34,-68,313.56,275,253,Smartphone
+Tower_81,-70,456.65,766,110,IoT Device
+Tower_5,-38,132.85,765,128,Smartphone
+Tower_55,-79,117.61,895,314,IoT Device
+Tower_48,-41,382.88,598,269,Smartphone
+Tower_28,-31,197.38,362,107,Smartphone
+Tower_21,-63,20.4,874,433,Tablet
+Tower_32,-38,371.07,208,377,Laptop
+Tower_38,-51,87.38,879,391,Laptop
+Tower_60,-74,283.6,850,412,IoT Device
+Tower_59,-85,460.85,207,345,IoT Device
+Tower_50,-64,498.6,922,426,IoT Device
+Tower_96,-34,205.97,402,228,Tablet
+Tower_11,-58,124.97,35,367,Smartphone
+Tower_25,-42,164.33,491,168,Tablet
+Tower_62,-41,42.01,646,128,Tablet
+Tower_5,-51,68.06,270,229,Smartphone
+Tower_16,-71,283.65,931,52,Tablet
+Tower_61,-73,52.49,250,473,Laptop
+Tower_45,-43,118.21,674,181,Smartphone
+Tower_27,-80,51.99,198,325,Laptop
+Tower_54,-71,140.32,400,425,IoT Device
+Tower_99,-76,278.88,582,7,Laptop
+Tower_56,-84,8.59,473,411,Tablet
+Tower_34,-44,488.72,799,480,IoT Device
+Tower_16,-30,246.76,209,367,IoT Device
+Tower_57,-59,321.44,84,190,Smartphone
+Tower_92,-59,431.67,146,304,Smartphone
+Tower_40,-38,490.17,957,29,Laptop
+Tower_6,-53,417.04,30,28,Smartphone
+Tower_41,-39,393.62,834,55,IoT Device
+Tower_23,-51,20.33,233,179,Tablet
+Tower_44,-69,232.87,676,354,Tablet
+Tower_84,-65,77.56,780,336,Tablet
+Tower_88,-38,317.2,869,195,Smartphone
+Tower_23,-73,393.35,396,215,Smartphone
+Tower_3,-68,493.12,587,273,Laptop
+Tower_59,-85,142.93,451,281,Laptop
+Tower_46,-80,359.9,237,209,IoT Device
+Tower_16,-76,290.78,746,58,Laptop
+Tower_60,-78,56.19,479,486,Smartphone
+Tower_45,-30,356.64,168,85,Tablet
+Tower_93,-66,24.01,84,279,Tablet
+Tower_6,-68,379.16,303,118,IoT Device
+Tower_4,-56,50.25,632,275,Laptop
+Tower_80,-74,11.71,461,322,Laptop
+Tower_98,-75,268.4,724,84,Laptop
+Tower_38,-36,181.12,759,194,Smartphone
+Tower_35,-41,227.22,944,110,IoT Device
+Tower_16,-78,22,372,290,Laptop
+Tower_57,-45,400.24,937,313,Tablet
+Tower_1,-31,35.33,618,140,Smartphone
+Tower_19,-38,36.07,54,35,Smartphone
+Tower_39,-79,487.29,987,11,Laptop
+Tower_98,-48,218.1,975,34,IoT Device
+Tower_20,-41,50.14,194,156,Smartphone
+Tower_47,-33,486.56,263,409,IoT Device
+Tower_54,-88,495.55,612,259,Smartphone
+Tower_95,-59,121.49,917,17,Tablet
+Tower_30,-75,472.01,265,75,Laptop
+Tower_39,-85,251.13,541,333,Laptop
+Tower_60,-77,394.35,191,357,Smartphone
+Tower_39,-64,428.13,41,212,Tablet
+Tower_63,-39,78.75,13,223,Laptop
+Tower_25,-32,351.52,58,484,Laptop
+Tower_51,-42,497.33,315,27,Smartphone
+Tower_66,-37,477.85,640,205,Smartphone
+Tower_65,-39,469.18,425,391,Laptop
+Tower_28,-30,225.16,745,27,Tablet
+Tower_40,-30,418.48,731,40,IoT Device
+Tower_47,-75,20.01,487,498,Laptop
+Tower_22,-83,90.96,801,491,Smartphone
+Tower_33,-63,190.43,449,377,Laptop
+Tower_10,-72,32.2,387,156,IoT Device
+Tower_92,-81,283.33,829,370,IoT Device
+Tower_13,-74,299.23,466,287,IoT Device
+Tower_22,-58,477.7,274,96,Tablet
+Tower_20,-81,206.05,93,368,Tablet
+Tower_19,-53,386.63,889,232,Laptop
+Tower_9,-87,161.04,688,210,Laptop
+Tower_52,-39,76.52,348,307,Smartphone
+Tower_16,-79,105.32,656,465,Smartphone
+Tower_93,-86,428.75,172,247,Tablet
+Tower_12,-78,103.1,584,367,Smartphone
+Tower_16,-61,21.44,764,251,Laptop
+Tower_48,-63,223.66,400,127,IoT Device
+Tower_36,-52,439.99,208,488,Tablet
+Tower_15,-90,308.58,347,219,Tablet
+Tower_11,-74,89.07,541,44,Laptop
+Tower_91,-74,330.59,140,46,Smartphone
+Tower_24,-83,207.31,279,294,Laptop
+Tower_3,-75,406.26,455,104,Tablet
+Tower_28,-58,422.93,605,126,IoT Device
+Tower_51,-53,496.1,522,316,Smartphone
+Tower_53,-82,383.66,164,17,Smartphone
+Tower_3,-52,385.54,513,207,Laptop
+Tower_16,-54,181.18,335,29,IoT Device
+Tower_7,-63,280.39,325,85,IoT Device
+Tower_82,-73,94.62,928,245,Smartphone
+Tower_92,-31,475.73,964,186,Tablet
+Tower_91,-61,176.62,75,351,Laptop
+Tower_38,-86,182.75,241,362,Smartphone
+Tower_48,-88,289.48,345,28,Laptop
+Tower_9,-64,6.44,810,219,Tablet
+Tower_26,-86,209.04,923,13,Laptop
+Tower_75,-65,108.18,945,295,Tablet
+Tower_2,-52,353.36,398,333,Smartphone
+Tower_13,-48,198.05,136,165,IoT Device
+Tower_6,-34,237.99,806,475,Smartphone
+Tower_27,-84,378.37,321,432,Tablet
+Tower_63,-82,258.72,499,375,Laptop
+Tower_86,-54,193.66,224,261,Smartphone
+Tower_18,-73,45.93,199,459,Tablet
+Tower_18,-41,356.36,25,173,Laptop
+Tower_19,-84,194.05,464,177,Tablet
+Tower_73,-54,445.29,739,341,Smartphone
+Tower_58,-86,426.53,218,265,Laptop
+Tower_2,-74,399.69,206,44,Smartphone
+Tower_9,-51,361.37,39,358,Laptop
+Tower_26,-52,203.27,954,375,IoT Device
+Tower_99,-76,332.32,345,349,Tablet
+Tower_54,-34,418.19,423,394,Smartphone
+Tower_46,-60,432.75,982,327,Smartphone
+Tower_29,-52,480.95,803,371,Smartphone
+Tower_61,-69,180.13,306,311,IoT Device
+Tower_39,-79,281.71,626,340,IoT Device
+Tower_1,-43,76.3,33,345,Laptop
+Tower_93,-61,418.38,177,276,Tablet
+Tower_16,-75,94.9,513,468,IoT Device
+Tower_81,-32,92.33,143,201,Smartphone
+Tower_63,-35,343.11,618,74,Tablet
+Tower_82,-49,463.98,125,469,Laptop
+Tower_63,-56,217.24,473,68,IoT Device
+Tower_90,-74,222.09,597,307,IoT Device
+Tower_88,-64,442.83,148,59,Laptop
+Tower_3,-50,319.37,791,109,Smartphone
+Tower_70,-60,14.18,543,52,Laptop
+Tower_98,-83,145.3,225,369,Tablet
+Tower_47,-84,214.73,689,156,IoT Device
+Tower_100,-51,371.97,248,105,IoT Device
+Tower_77,-41,363.37,297,332,IoT Device
+Tower_51,-77,390.82,310,174,Smartphone
+Tower_80,-43,391.72,696,489,Laptop
+Tower_46,-63,145.44,399,13,Tablet
+Tower_99,-32,91.79,472,487,Laptop
+Tower_50,-33,269.96,513,233,IoT Device
+Tower_47,-31,101.81,25,278,IoT Device
+Tower_14,-70,412.59,907,353,Laptop
+Tower_55,-54,37.45,622,169,Laptop
+Tower_57,-41,268.55,863,150,Tablet
+Tower_38,-34,210.55,435,486,Tablet
+Tower_64,-40,223.84,165,414,IoT Device
+Tower_2,-62,359.62,227,32,IoT Device
+Tower_92,-44,69.36,488,3,IoT Device
+Tower_85,-71,150.69,844,190,Laptop
+Tower_96,-78,472.03,356,333,Smartphone
+Tower_61,-86,122.49,817,297,IoT Device
+Tower_78,-44,322.18,230,196,Laptop
+Tower_81,-57,208.27,667,268,Smartphone
+Tower_78,-71,268.41,853,74,Smartphone
+Tower_63,-66,138.92,636,63,Tablet
+Tower_89,-80,397.19,820,177,Smartphone
+Tower_24,-76,214.64,405,96,Smartphone
+Tower_76,-38,406.06,534,481,Laptop
+Tower_42,-56,119.63,392,451,IoT Device
+Tower_35,-83,87.13,43,226,Tablet
+Tower_47,-59,484.84,442,53,Tablet
+Tower_1,-64,76.22,18,490,Tablet
+Tower_38,-89,285.62,977,95,Laptop
+Tower_34,-60,247.81,466,371,IoT Device
+Tower_87,-42,379.14,342,258,IoT Device
+Tower_62,-84,202.32,833,247,Laptop
+Tower_80,-63,45.09,776,42,IoT Device
+Tower_48,-67,230.63,485,214,Smartphone
+Tower_44,-51,128.61,455,51,Laptop
+Tower_16,-44,289.19,470,74,IoT Device
+Tower_88,-68,283.03,52,359,Smartphone
+Tower_45,-75,250.4,622,253,Laptop
+Tower_95,-63,30.07,955,273,Smartphone
+Tower_93,-81,241.39,412,73,Tablet
+Tower_56,-83,456.72,534,136,IoT Device
+Tower_20,-36,18.54,910,394,Tablet
+Tower_42,-88,8.82,156,370,Tablet
+Tower_57,-59,329.27,120,53,Smartphone
+Tower_4,-60,426.51,833,288,Tablet
+Tower_39,-38,296.39,617,161,Smartphone
+Tower_3,-60,411.69,928,227,Laptop
+Tower_99,-66,201.74,323,374,Tablet
+Tower_60,-40,432.9,68,3,Laptop
+Tower_23,-44,420.18,723,333,Smartphone
+Tower_24,-76,125.34,108,413,Smartphone
+Tower_27,-45,461.56,996,223,Tablet
+Tower_73,-46,457.12,308,157,IoT Device
+Tower_75,-74,387.83,142,373,IoT Device
+Tower_27,-40,31.62,138,158,Smartphone
+Tower_72,-80,23.84,119,416,Laptop
+Tower_76,-33,190.85,679,331,Laptop
+Tower_64,-57,457.05,213,382,Smartphone
+Tower_33,-85,256.17,978,310,Laptop
+Tower_50,-44,251.41,601,136,Smartphone
+Tower_50,-85,456.74,659,80,Smartphone
+Tower_11,-47,43.03,855,196,Laptop
+Tower_34,-45,57.74,793,127,Tablet
+Tower_8,-64,168.7,402,46,Smartphone
+Tower_35,-40,116.99,186,85,IoT Device
+Tower_21,-32,18.45,516,330,Laptop
+Tower_40,-30,209.1,335,54,Smartphone
+Tower_6,-60,40.03,319,149,Laptop
+Tower_50,-34,44.61,992,325,Laptop
+Tower_7,-52,218.21,510,328,Laptop
+Tower_30,-51,62.97,377,33,Laptop
+Tower_6,-65,367.1,247,476,Laptop
+Tower_69,-42,262.72,668,166,Smartphone
+Tower_82,-30,14.05,241,417,Laptop
+Tower_42,-39,40.78,219,74,Smartphone
+Tower_54,-75,162.21,923,212,IoT Device
+Tower_84,-30,204.3,548,450,Laptop
+Tower_38,-34,84.07,295,153,Laptop
+Tower_48,-43,154.73,337,214,Laptop
+Tower_89,-33,250.37,938,497,Smartphone
+Tower_30,-54,382.8,876,396,Laptop
+Tower_6,-68,402.29,648,136,Tablet
+Tower_61,-45,75.1,382,323,Laptop
+Tower_54,-52,393.61,678,433,Laptop
+Tower_66,-77,344.75,584,134,IoT Device
+Tower_35,-87,47.78,159,123,Laptop
+Tower_40,-85,165.93,539,356,Smartphone
+Tower_44,-49,345.13,310,352,Tablet
+Tower_98,-75,179.21,592,56,Tablet
+Tower_19,-76,184.58,115,494,Tablet
+Tower_73,-73,274.11,284,136,Laptop
+Tower_98,-73,456.83,816,169,IoT Device
+Tower_27,-76,334.48,597,172,Smartphone
+Tower_61,-58,67.09,931,55,Laptop
+Tower_96,-54,147.9,916,202,Smartphone
+Tower_80,-66,56.06,456,18,Tablet
+Tower_54,-45,427.3,658,113,Smartphone
+Tower_82,-85,473.88,902,343,Tablet
+Tower_27,-72,290.11,598,9,Tablet
+Tower_88,-89,191.11,12,452,Tablet
+Tower_67,-83,357.51,908,243,Tablet
+Tower_11,-85,443.94,674,283,Tablet
+Tower_84,-82,208.89,729,367,Laptop
+Tower_17,-79,310.29,647,489,Smartphone
+Tower_4,-81,9.73,451,81,IoT Device
+Tower_4,-33,445.11,911,191,Tablet
+Tower_24,-86,249.47,599,258,Tablet
+Tower_71,-38,237.61,210,335,IoT Device
+Tower_58,-69,197.15,104,114,Laptop
+Tower_37,-47,105.38,220,362,IoT Device
+Tower_68,-35,72.03,824,230,Smartphone
+Tower_62,-52,227.93,480,76,Smartphone
+Tower_2,-51,410.95,150,341,Smartphone
+Tower_41,-52,76.72,722,69,Smartphone
+Tower_54,-56,169.22,357,481,Smartphone
+Tower_77,-51,344.86,353,306,Smartphone
+Tower_9,-68,225.48,21,408,IoT Device
+Tower_70,-43,9.81,976,30,Tablet
+Tower_72,-43,384.88,470,392,Tablet
+Tower_83,-45,317.09,778,358,Tablet
+Tower_74,-81,286.72,795,343,Laptop
+Tower_29,-78,317.7,772,426,IoT Device
+Tower_42,-48,392.11,374,319,Tablet
+Tower_37,-36,339.79,961,174,Tablet
+Tower_85,-75,103.27,357,230,IoT Device
+Tower_90,-80,56.58,196,233,IoT Device
+Tower_51,-75,228.24,397,261,Tablet
+Tower_92,-77,444.54,990,446,Tablet
+Tower_77,-76,119.41,117,406,Tablet
+Tower_34,-88,423.93,255,476,Tablet
+Tower_82,-79,227.37,755,472,Laptop
+Tower_64,-50,78.68,429,134,Tablet
+Tower_9,-87,365.7,484,89,Smartphone
+Tower_79,-64,398.19,79,372,IoT Device
+Tower_84,-37,152.85,642,333,Tablet
+Tower_17,-84,251.09,956,248,Laptop
+Tower_9,-62,43.56,518,229,Smartphone
+Tower_7,-75,127.9,60,484,IoT Device
+Tower_5,-90,60.33,624,21,Laptop
+Tower_98,-76,378,219,451,Smartphone
+Tower_87,-46,219.84,839,500,IoT Device
+Tower_34,-32,143.02,471,108,IoT Device
+Tower_77,-48,431.37,305,372,IoT Device
+Tower_41,-39,19.9,295,256,Tablet
+Tower_51,-36,203,909,51,Laptop
+Tower_84,-87,190.44,650,345,Laptop
+Tower_50,-44,219.45,767,116,Tablet
+Tower_96,-79,44.89,857,182,Laptop
+Tower_20,-36,88.69,637,291,Laptop
+Tower_78,-43,191.17,810,164,IoT Device
+Tower_41,-31,426.16,389,164,Tablet
+Tower_19,-44,457.69,873,241,Laptop
+Tower_2,-74,270.63,970,1,Smartphone
+Tower_69,-54,463.15,84,32,IoT Device
+Tower_37,-52,478.28,836,265,Smartphone
+Tower_44,-35,427.6,236,220,Laptop
+Tower_49,-63,134.24,981,392,Laptop
+Tower_8,-30,282.06,398,122,IoT Device
+Tower_45,-69,244.8,659,353,Tablet
+Tower_49,-62,389.58,261,301,IoT Device
+Tower_46,-47,308.27,529,349,Laptop
+Tower_98,-62,367.66,891,262,Smartphone
+Tower_49,-40,93.51,767,23,Tablet
+Tower_81,-59,223.79,344,450,IoT Device
+Tower_59,-80,127.62,684,38,Smartphone
+Tower_29,-73,54.09,388,494,Smartphone
+Tower_100,-52,426.09,790,226,Smartphone
+Tower_69,-31,258.04,577,153,Laptop
+Tower_84,-53,235.1,406,482,Tablet
+Tower_74,-33,110.6,567,380,Tablet
+Tower_88,-62,167.15,598,478,Tablet
+Tower_74,-68,421.88,181,96,Tablet
+Tower_23,-72,394.43,425,18,Laptop
+Tower_70,-54,12.88,986,71,Laptop
+Tower_34,-90,303.35,292,29,Smartphone
+Tower_72,-57,485.75,120,432,Laptop
+Tower_25,-79,45.34,879,405,IoT Device
+Tower_37,-64,22.29,752,219,IoT Device
+Tower_69,-66,433.51,981,191,Smartphone
+Tower_88,-42,24.39,158,194,Smartphone
+Tower_86,-76,437.63,660,231,Laptop
+Tower_47,-40,11.54,728,249,Smartphone
+Tower_28,-51,25.25,106,173,Smartphone
+Tower_63,-80,183.21,822,95,Laptop
+Tower_35,-37,196.98,946,63,IoT Device
+Tower_93,-61,268.18,860,332,Laptop
+Tower_45,-90,163.13,703,155,IoT Device
+Tower_69,-37,26.1,957,43,Tablet
+Tower_72,-74,177.17,329,76,IoT Device
+Tower_14,-45,442.71,833,44,Smartphone
+Tower_75,-42,301.7,884,295,IoT Device
+Tower_75,-48,7.91,383,52,Smartphone
+Tower_72,-61,16.21,885,344,Smartphone
+Tower_30,-32,320.08,637,442,IoT Device
+Tower_56,-41,25.53,243,348,IoT Device
+Tower_51,-87,489.32,62,233,Smartphone
+Tower_49,-41,244.39,748,473,Smartphone
+Tower_23,-50,22.06,538,353,Laptop
+Tower_62,-72,112.47,377,256,Smartphone
+Tower_41,-81,344.78,424,483,Laptop
+Tower_91,-90,327.46,624,420,Laptop
+Tower_22,-50,481.34,438,234,Laptop
+Tower_94,-84,381.79,635,336,Tablet
+Tower_31,-60,443.29,446,35,Laptop
+Tower_78,-35,239.87,805,413,IoT Device
+Tower_7,-33,133.76,232,431,Laptop
+Tower_48,-58,267.54,821,30,Smartphone
+Tower_9,-44,428.8,894,247,Smartphone
+Tower_79,-41,464.93,496,214,IoT Device
+Tower_54,-40,233.29,391,264,Laptop
+Tower_20,-90,261.8,124,123,Laptop
+Tower_28,-61,160.62,972,201,Laptop
+Tower_56,-80,401.64,153,217,Smartphone
+Tower_79,-83,77.73,171,115,Tablet
+Tower_53,-44,151.37,650,477,Laptop
+Tower_58,-36,11.42,122,125,Laptop
+Tower_61,-77,98.13,697,466,Laptop
+Tower_78,-70,162.56,22,222,Laptop
+Tower_53,-58,317.06,691,385,Laptop
+Tower_65,-37,399.5,595,441,Smartphone
+Tower_84,-44,337.07,553,73,Smartphone
+Tower_19,-61,56.63,306,427,IoT Device
+Tower_30,-42,49.03,538,421,IoT Device
+Tower_44,-30,206.74,575,197,IoT Device
+Tower_6,-37,45.48,636,407,Tablet
+Tower_46,-74,496.12,580,102,IoT Device
+Tower_44,-58,357.35,29,335,Laptop
+Tower_95,-59,260.23,64,108,Laptop
+Tower_98,-52,9.96,636,406,Smartphone
+Tower_78,-83,217.62,74,498,Tablet
+Tower_78,-76,478.22,254,307,Laptop
+Tower_63,-39,366.43,354,324,Tablet
+Tower_28,-38,188.91,215,439,IoT Device
+Tower_98,-73,179.47,490,410,Smartphone
+Tower_25,-52,452.51,568,384,Laptop
+Tower_61,-57,420.78,906,367,Laptop
+Tower_89,-76,498.44,532,239,Laptop
+Tower_63,-36,29.59,220,245,Laptop
+Tower_73,-67,131.14,355,417,IoT Device
+Tower_83,-66,283.52,795,295,Laptop
+Tower_8,-54,60.13,525,10,IoT Device
+Tower_20,-74,195.64,703,66,Smartphone
+Tower_73,-62,491.05,626,105,Tablet
+Tower_15,-59,301.12,368,52,Laptop
+Tower_16,-85,489.61,806,277,IoT Device
+Tower_78,-39,490.98,291,77,IoT Device
+Tower_96,-32,366.11,71,251,Smartphone
+Tower_73,-47,288.7,145,134,IoT Device
+Tower_16,-30,73.49,852,195,Smartphone
+Tower_4,-62,163.94,337,165,IoT Device
+Tower_82,-42,380.87,12,229,Tablet
+Tower_73,-73,64.64,346,367,Laptop
+Tower_85,-88,298.23,578,447,Laptop
+Tower_48,-70,385.95,831,193,Smartphone
+Tower_62,-47,468.25,925,92,Tablet
+Tower_3,-78,36.06,716,217,Tablet
+Tower_81,-30,189.36,25,421,Smartphone
+Tower_38,-67,411.16,833,486,Laptop
+Tower_45,-32,319.9,449,458,Smartphone
+Tower_77,-47,4.04,217,243,IoT Device
+Tower_15,-37,430.89,724,198,IoT Device
+Tower_68,-62,479.16,235,375,Laptop
+Tower_88,-39,343.38,423,451,Smartphone
+Tower_90,-85,96.04,608,275,Tablet
+Tower_32,-73,240.3,43,303,Tablet
+Tower_55,-30,235.77,741,122,Laptop
+Tower_26,-82,155.35,260,319,Laptop
+Tower_4,-82,8.27,709,210,Tablet
+Tower_6,-48,404.5,687,425,IoT Device
+Tower_83,-57,377.56,149,302,IoT Device
+Tower_94,-49,251.83,208,467,Smartphone
+Tower_6,-49,162.28,463,86,Laptop
+Tower_29,-66,315.09,482,20,Laptop
+Tower_2,-71,409.86,361,495,Laptop
+Tower_55,-86,46.9,807,369,IoT Device
+Tower_71,-84,77.49,135,408,Tablet
+Tower_78,-38,484.23,322,190,Tablet
+Tower_46,-73,409.53,612,421,Tablet
+Tower_79,-82,188.58,459,84,IoT Device
+Tower_33,-34,126.11,642,149,IoT Device
+Tower_93,-76,345.65,574,421,Laptop
+Tower_92,-65,50.65,362,399,Laptop
+Tower_60,-77,175.95,12,244,Tablet
+Tower_8,-65,19.6,572,248,Laptop
+Tower_11,-39,128.02,146,105,Tablet
+Tower_63,-33,40.11,614,311,IoT Device
+Tower_79,-59,412.24,717,457,IoT Device
+Tower_15,-47,270.95,436,457,IoT Device
+Tower_38,-53,104.14,206,255,Laptop
+Tower_33,-54,119.6,457,375,Smartphone
+Tower_53,-47,225.92,858,66,Laptop
+Tower_81,-68,444.32,526,418,Laptop
+Tower_87,-50,146.6,868,306,IoT Device
+Tower_62,-35,116.59,593,332,IoT Device
+Tower_36,-60,4.53,407,257,Tablet
+Tower_61,-72,61.58,295,372,Laptop
+Tower_29,-77,232.28,269,423,Smartphone
+Tower_50,-83,438.18,24,277,IoT Device
+Tower_4,-88,498.07,435,72,Laptop
+Tower_61,-66,407.61,39,378,IoT Device
+Tower_46,-80,400.78,440,167,IoT Device
+Tower_76,-77,460.47,283,282,Smartphone
+Tower_38,-67,231.71,31,70,IoT Device
+Tower_67,-64,59.96,861,234,Smartphone
+Tower_1,-83,413.47,699,397,Tablet
+Tower_35,-67,389.93,753,437,Laptop
+Tower_71,-70,455.04,908,314,Laptop
+Tower_68,-49,279.57,432,412,Tablet
+Tower_18,-46,21.97,289,256,IoT Device
+Tower_48,-85,47,897,195,IoT Device
+Tower_90,-40,178.34,264,225,Tablet
+Tower_70,-69,159.75,308,349,Tablet
+Tower_46,-87,353.13,396,442,IoT Device
+Tower_87,-50,443.07,568,343,Laptop
+Tower_83,-57,142.38,65,333,Smartphone
+Tower_71,-68,438.52,29,482,IoT Device
+Tower_41,-77,303.05,325,295,Laptop
+Tower_14,-84,210.23,846,119,IoT Device
+Tower_9,-61,298.17,467,480,Smartphone
+Tower_80,-82,324.9,832,81,Tablet
+Tower_97,-87,413.79,470,221,Smartphone
+Tower_6,-84,425.41,198,179,Smartphone
+Tower_44,-90,479.37,766,476,Tablet
+Tower_66,-34,203.59,173,434,Tablet
+Tower_58,-32,315.09,79,71,Smartphone
+Tower_94,-53,171.77,96,231,IoT Device
+Tower_1,-37,126.01,132,436,Laptop
+Tower_13,-68,468.33,937,477,Tablet
+Tower_96,-62,102.77,780,68,Laptop
+Tower_12,-70,245.06,104,481,Smartphone
+Tower_2,-74,298.79,493,157,IoT Device
+Tower_33,-82,427.3,576,186,Tablet
+Tower_51,-57,346.48,725,210,Laptop
+Tower_19,-30,229.04,681,179,Laptop
+Tower_93,-84,400.81,612,459,Tablet
+Tower_61,-80,106.37,901,33,Smartphone
+Tower_42,-77,210.31,480,428,IoT Device
+Tower_73,-48,105.08,705,203,Smartphone
+Tower_20,-53,271.17,844,239,Laptop
+Tower_59,-30,383.41,83,127,Tablet
+Tower_100,-68,119.47,904,345,Tablet
+Tower_66,-72,263.86,424,8,Laptop
+Tower_93,-72,216.85,341,392,Tablet
+Tower_60,-41,256.17,449,260,Smartphone
+Tower_52,-36,209.85,984,186,Laptop
+Tower_12,-58,208.85,61,425,IoT Device
+Tower_96,-78,142.57,976,397,Smartphone
+Tower_15,-37,325.71,475,215,Laptop
+Tower_90,-47,332.51,130,81,Smartphone
+Tower_40,-90,292.05,843,204,Smartphone
+Tower_21,-76,216.31,172,253,Tablet
+Tower_17,-83,237.88,767,187,Smartphone
+Tower_31,-39,478.68,236,494,Tablet
+Tower_14,-89,484.62,540,81,IoT Device
+Tower_97,-80,167.5,449,243,Smartphone
+Tower_20,-36,330.97,417,364,IoT Device
+Tower_42,-48,45.4,419,57,Laptop
+Tower_75,-36,488.9,543,469,Tablet
+Tower_29,-89,188.51,873,50,Laptop
+Tower_95,-66,324.11,326,388,Tablet
+Tower_34,-34,486.77,756,66,Smartphone
+Tower_40,-31,261.48,592,404,Smartphone
+Tower_62,-31,157.3,92,121,Laptop
+Tower_95,-58,227.31,456,184,Laptop
+Tower_25,-73,21.06,611,491,Tablet
+Tower_26,-54,75.14,918,208,Laptop
+Tower_13,-49,434.09,586,204,Smartphone
+Tower_98,-70,154.85,663,230,Smartphone
+Tower_7,-38,371.26,711,278,Tablet
+Tower_81,-89,371.86,249,467,Laptop
+Tower_72,-72,307.39,990,458,Tablet
+Tower_47,-66,305.31,457,354,Smartphone
+Tower_88,-46,247.74,447,347,Smartphone
+Tower_63,-66,113.95,536,411,Tablet
+Tower_71,-80,313.33,256,326,IoT Device
+Tower_42,-50,388.4,76,385,Laptop
+Tower_24,-49,97.63,55,499,Smartphone
+Tower_48,-62,70.57,926,196,Laptop
+Tower_79,-55,46.74,571,28,Smartphone
+Tower_16,-44,119.52,930,132,IoT Device
+Tower_70,-81,381.87,824,469,IoT Device
+Tower_19,-51,428.93,274,226,Tablet
+Tower_31,-40,432.28,305,326,Tablet
+Tower_16,-76,421.67,775,355,Smartphone
+Tower_50,-51,162.12,343,199,Smartphone
+Tower_74,-77,478.58,100,200,IoT Device
+Tower_60,-63,36.2,610,259,Smartphone
+Tower_37,-52,296.31,440,338,IoT Device
+Tower_38,-48,310.1,169,290,Smartphone
+Tower_23,-50,32.16,218,419,Tablet
+Tower_80,-85,147.06,541,156,Tablet
+Tower_35,-51,425.25,87,370,Smartphone
+Tower_86,-83,130.71,599,483,Tablet
+Tower_3,-39,351.67,941,159,Tablet
+Tower_36,-43,71.3,896,491,Smartphone
+Tower_82,-30,23.35,601,187,Laptop
+Tower_90,-64,341.65,884,277,Laptop
+Tower_32,-69,408.44,395,442,Laptop
+Tower_29,-47,477.69,94,118,Laptop
+Tower_84,-69,338.28,419,30,IoT Device
+Tower_65,-61,304.03,44,395,IoT Device
+Tower_29,-64,395.61,530,473,Smartphone
+Tower_53,-31,289.28,504,217,IoT Device
+Tower_93,-83,62.75,517,416,IoT Device
+Tower_4,-55,143.34,536,341,Tablet
+Tower_40,-47,48.45,829,466,Smartphone
+Tower_15,-35,449.83,475,395,Tablet
+Tower_35,-87,177.21,523,251,Tablet
+Tower_9,-84,310.68,892,357,Tablet
+Tower_70,-53,383.22,549,242,Tablet
+Tower_79,-32,244.31,22,45,IoT Device
+Tower_15,-52,197.26,344,226,Laptop
+Tower_14,-69,293.48,180,289,Smartphone
+Tower_13,-66,205.62,643,41,Laptop
+Tower_49,-55,235.66,195,456,IoT Device
+Tower_79,-87,352.33,295,34,Smartphone
+Tower_10,-87,140.69,709,7,Laptop
+Tower_41,-46,359.96,602,328,Tablet
+Tower_90,-42,372.48,554,382,Tablet
+Tower_74,-86,139.68,755,63,Smartphone
+Tower_36,-34,13.68,240,204,Tablet
+Tower_50,-73,106.53,669,303,Tablet
+Tower_65,-40,128.55,317,96,IoT Device
+Tower_55,-87,403.82,347,398,Smartphone
+Tower_32,-37,333.09,743,57,Laptop
+Tower_47,-30,469.38,268,350,Smartphone
+Tower_15,-78,306.19,308,400,IoT Device
+Tower_59,-67,383.66,387,146,IoT Device
+Tower_49,-75,175.81,603,355,Tablet
+Tower_57,-87,247.8,742,477,IoT Device
+Tower_20,-36,85.8,604,467,Laptop
+Tower_73,-72,420.56,888,214,IoT Device
+Tower_48,-86,100.77,446,197,IoT Device
+Tower_39,-73,168.56,48,36,Tablet
+Tower_17,-73,59.7,247,44,Smartphone
+Tower_75,-88,219.22,814,164,Laptop
+Tower_70,-77,88.87,888,183,Tablet
+Tower_66,-39,399.37,970,492,Tablet
+Tower_66,-59,127.32,30,63,Laptop
+Tower_70,-58,178.05,712,256,IoT Device
+Tower_91,-53,452.09,412,312,Smartphone
+Tower_28,-81,284.05,525,310,Smartphone
+Tower_43,-83,9.75,44,246,Laptop
+Tower_35,-42,234.36,568,423,Laptop
+Tower_87,-44,143.2,582,71,IoT Device
+Tower_74,-77,101.74,936,284,Tablet
+Tower_21,-35,396.84,36,63,Laptop
+Tower_74,-40,273.56,889,409,Laptop
+Tower_65,-56,139.87,625,348,Laptop
+Tower_46,-33,204.09,818,421,Smartphone
+Tower_24,-31,348.17,208,69,IoT Device
+Tower_13,-49,227.44,493,241,Tablet
+Tower_59,-44,17.71,835,415,IoT Device
+Tower_15,-68,175.06,297,3,Laptop
+Tower_18,-68,413.55,661,494,Smartphone
+Tower_92,-58,337.89,282,96,Laptop
+Tower_67,-87,216.04,922,427,Tablet
+Tower_91,-70,254.92,138,34,Smartphone
+Tower_34,-51,123.78,36,237,Laptop
+Tower_58,-86,150.86,452,420,IoT Device
+Tower_18,-71,146.89,413,151,Smartphone
+Tower_20,-78,354.25,10,496,Laptop
+Tower_84,-77,234.18,719,139,Smartphone
+Tower_48,-55,163.98,787,345,Tablet
+Tower_26,-68,117.24,608,344,Tablet
+Tower_1,-76,345.51,731,394,Smartphone
+Tower_65,-35,332.53,779,196,Smartphone
+Tower_18,-36,250.84,811,145,IoT Device
+Tower_43,-90,18.28,147,321,IoT Device
+Tower_53,-73,7.74,522,311,Tablet
+Tower_68,-60,438.13,958,489,Laptop
+Tower_19,-81,298.45,908,319,Smartphone
+Tower_40,-45,11.91,109,429,Laptop
+Tower_37,-41,167.18,921,477,Tablet
+Tower_84,-87,491.67,850,222,Laptop
+Tower_38,-80,343,599,180,Laptop
+Tower_4,-40,356.19,583,306,Smartphone
+Tower_29,-77,176.4,734,403,IoT Device
+Tower_11,-75,150.52,862,415,Smartphone
+Tower_11,-52,53,510,163,Smartphone
+Tower_20,-53,88.09,851,136,Tablet
+Tower_74,-86,44.75,566,349,Tablet
+Tower_11,-39,216.75,886,52,IoT Device
+Tower_43,-47,395.59,519,119,Smartphone
+Tower_48,-46,353.29,562,190,Tablet
+Tower_23,-64,371.8,932,355,Smartphone
+Tower_18,-58,184.2,971,411,Smartphone
+Tower_76,-63,249.47,890,57,IoT Device
+Tower_22,-39,363.99,903,273,Smartphone
+Tower_98,-46,327.87,11,198,Laptop
+Tower_74,-34,102.75,419,320,IoT Device
+Tower_82,-90,356.53,307,90,Tablet
+Tower_87,-68,378.52,195,411,IoT Device
+Tower_37,-55,71.23,498,140,Tablet
+Tower_27,-50,372.1,567,460,IoT Device
+Tower_45,-76,169.95,86,414,Smartphone
+Tower_11,-57,74.98,423,367,IoT Device
+Tower_6,-51,363.2,95,301,Laptop
+Tower_69,-69,202.51,859,302,Smartphone
+Tower_32,-42,440.88,31,120,Laptop
+Tower_72,-85,71.29,484,249,Laptop
+Tower_91,-41,470.38,983,180,IoT Device
+Tower_59,-44,193.58,512,141,Tablet
+Tower_92,-30,255.97,29,115,Laptop
+Tower_29,-48,276.34,931,104,Smartphone
+Tower_49,-87,277.63,270,404,IoT Device
+Tower_28,-77,390.41,349,54,Laptop
+Tower_89,-84,140.53,480,272,Laptop
+Tower_3,-48,138.54,188,173,Laptop
+Tower_20,-31,294.83,276,163,Smartphone
+Tower_46,-31,499.17,321,40,Smartphone
+Tower_28,-31,279.69,199,480,IoT Device
+Tower_67,-86,222.11,259,14,IoT Device
+Tower_48,-34,38.44,506,306,IoT Device
+Tower_52,-40,40.44,247,114,IoT Device
+Tower_12,-63,347.92,416,375,Laptop
+Tower_61,-36,251.73,108,406,Smartphone
+Tower_21,-41,441.65,351,25,Smartphone
+Tower_23,-83,270.4,66,176,IoT Device
+Tower_80,-40,428.96,467,214,Laptop
+Tower_35,-58,409.11,43,96,Smartphone
+Tower_45,-58,149.54,234,480,IoT Device
+Tower_51,-38,328.34,945,241,Laptop
+Tower_35,-49,220.55,612,22,Smartphone
+Tower_70,-75,360.26,50,68,Laptop
+Tower_78,-70,80.93,361,479,Smartphone
+Tower_74,-65,2.38,373,304,IoT Device
+Tower_83,-42,209.13,867,288,IoT Device
+Tower_7,-74,364.09,909,430,IoT Device
+Tower_33,-46,136.71,636,370,Tablet
+Tower_49,-46,56.04,496,391,Tablet
+Tower_90,-63,248.41,786,72,Tablet
+Tower_60,-62,76.06,581,343,IoT Device
+Tower_97,-76,271.68,336,262,Smartphone
+Tower_89,-71,241.44,663,295,Smartphone
+Tower_42,-54,473.64,313,212,Laptop
+Tower_83,-87,164.92,87,30,Smartphone
+Tower_64,-40,487.77,26,162,IoT Device
+Tower_71,-88,315.54,417,232,Tablet
+Tower_89,-34,471.64,994,472,IoT Device
+Tower_34,-43,465.58,927,246,IoT Device
+Tower_22,-72,110.53,200,304,Smartphone
+Tower_32,-63,262.7,98,129,Tablet
+Tower_19,-41,347.34,955,10,Laptop
+Tower_43,-57,499.19,290,386,IoT Device
+Tower_94,-75,107.18,344,364,Laptop
+Tower_32,-32,179.01,13,355,Laptop
+Tower_37,-77,18.87,765,79,Smartphone
+Tower_49,-46,99,691,473,Smartphone
+Tower_39,-84,461.49,642,425,Laptop
+Tower_99,-47,423.67,72,121,Laptop
+Tower_71,-69,476.02,305,246,Tablet
+Tower_17,-31,312.8,986,458,Laptop
+Tower_90,-38,424.62,926,10,Laptop
+Tower_3,-64,424.77,476,3,Tablet
+Tower_91,-34,70.94,980,188,Smartphone
+Tower_20,-41,131.76,470,436,Smartphone
+Tower_8,-75,104.2,361,82,Tablet
+Tower_87,-90,202.18,507,199,Smartphone
+Tower_87,-88,97.93,82,436,Tablet
+Tower_2,-71,51.54,546,438,Smartphone
+Tower_9,-75,366.71,936,261,Smartphone
+Tower_56,-81,90.15,597,33,Laptop
+Tower_66,-30,194.68,184,318,Smartphone
+Tower_99,-89,332.88,437,148,Smartphone
+Tower_49,-48,306.43,467,247,IoT Device
+Tower_23,-73,124.15,782,483,Smartphone
+Tower_59,-88,23.35,852,53,Tablet
+Tower_37,-87,102.41,919,412,Smartphone
+Tower_46,-66,33.77,849,495,Tablet
+Tower_13,-45,317.27,922,265,Smartphone
+Tower_57,-80,64.13,416,315,Smartphone
+Tower_73,-83,456.48,108,491,Smartphone
+Tower_68,-30,263.61,542,458,Smartphone
+Tower_73,-41,390.07,928,277,Smartphone
+Tower_7,-78,452.93,781,140,Laptop
+Tower_13,-44,283.13,841,298,IoT Device
+Tower_24,-35,417.11,302,196,Tablet
+Tower_52,-76,177.11,709,152,Smartphone
+Tower_9,-44,324.73,407,94,IoT Device
+Tower_20,-84,436.87,924,68,IoT Device
+Tower_63,-83,305.9,18,445,IoT Device
+Tower_9,-47,246.66,590,240,Tablet
+Tower_5,-86,274.52,328,158,Laptop
+Tower_72,-71,401.34,962,421,Laptop
+Tower_47,-61,259.48,201,199,Tablet
+Tower_26,-59,483.21,837,399,Laptop
+Tower_50,-62,48.06,73,397,Smartphone
+Tower_26,-88,100.47,707,359,IoT Device
+Tower_42,-54,214.29,73,321,Smartphone
+Tower_47,-68,194.74,123,103,Tablet
+Tower_45,-78,224.34,25,219,Smartphone
+Tower_18,-54,367.93,974,331,Tablet
+Tower_69,-84,110.35,258,310,IoT Device
+Tower_61,-73,101.39,319,378,Tablet
+Tower_95,-35,64.4,392,235,Tablet
+Tower_35,-34,419.57,605,399,Laptop
+Tower_19,-69,70.77,301,388,Laptop
+Tower_55,-70,169.52,553,244,Smartphone
+Tower_42,-60,240.48,176,250,IoT Device
+Tower_99,-38,478.66,456,120,IoT Device
+Tower_60,-59,407.23,729,403,Tablet
+Tower_2,-46,129.04,468,169,IoT Device
+Tower_27,-53,352.91,229,276,Smartphone
+Tower_37,-56,47.47,677,282,Laptop
+Tower_37,-47,383.35,474,30,Tablet
+Tower_69,-66,270.54,989,88,IoT Device
+Tower_8,-36,97.29,860,113,Tablet
+Tower_92,-69,39.28,614,70,Tablet
+Tower_58,-50,231.69,385,254,Smartphone
+Tower_16,-88,411.22,959,369,Tablet
+Tower_18,-48,297.33,50,494,Smartphone
+Tower_34,-69,218.34,209,274,Tablet
+Tower_93,-65,6.02,914,333,Laptop
+Tower_21,-74,455.49,642,371,Laptop
+Tower_32,-66,67.04,793,38,Tablet
+Tower_68,-45,300.12,647,360,Smartphone
+Tower_71,-44,208.51,997,110,Laptop
+Tower_14,-57,476.96,142,219,Smartphone
+Tower_73,-82,158.35,858,499,Smartphone
+Tower_88,-51,204.31,332,290,Laptop
+Tower_69,-56,118.19,17,391,Laptop
+Tower_52,-81,15.24,835,331,Smartphone
+Tower_77,-83,138.35,644,118,Tablet
+Tower_19,-62,54.32,889,24,Laptop
+Tower_80,-66,393.14,772,181,Laptop
+Tower_1,-44,300.83,545,98,Tablet
+Tower_74,-38,487.98,303,312,Smartphone
+Tower_83,-49,36.67,388,361,Smartphone
+Tower_51,-46,60.34,448,19,Smartphone
+Tower_37,-81,350.01,653,418,Tablet
+Tower_29,-47,412.46,429,276,Tablet
+Tower_77,-37,450.83,969,476,IoT Device
+Tower_62,-80,480.85,55,292,Smartphone
+Tower_96,-32,155.85,845,75,Tablet
+Tower_36,-85,322.31,26,109,Laptop
+Tower_32,-77,53.05,697,12,Tablet
+Tower_5,-57,407.31,801,318,Laptop
+Tower_15,-70,181.16,458,426,Smartphone
+Tower_66,-30,238.46,873,323,Smartphone
+Tower_76,-65,34.51,345,399,IoT Device
+Tower_93,-64,312.62,319,298,IoT Device
+Tower_93,-40,400.1,746,497,Tablet
+Tower_67,-70,234.76,85,247,Smartphone
+Tower_67,-31,100.09,91,121,Tablet
+Tower_18,-32,133.74,802,359,Tablet
+Tower_64,-33,345.37,248,94,Tablet
+Tower_89,-66,2.85,358,27,IoT Device
+Tower_35,-38,408.2,701,8,Laptop
+Tower_25,-82,0.72,768,260,IoT Device
+Tower_78,-32,225.28,930,285,IoT Device
+Tower_17,-79,348.39,190,165,Smartphone
+Tower_75,-58,138.6,517,471,Laptop
+Tower_59,-85,326.14,993,315,Tablet
+Tower_35,-39,201.65,155,135,IoT Device
+Tower_98,-39,324.99,663,36,Smartphone
+Tower_77,-47,399.22,520,270,Tablet
+Tower_10,-41,400.04,790,6,Smartphone
+Tower_100,-70,149.74,486,108,IoT Device
+Tower_68,-36,120.84,739,92,Laptop
+Tower_29,-89,345.04,970,287,Laptop
+Tower_91,-33,23.82,141,137,Tablet
+Tower_32,-76,102.47,938,421,Laptop
+Tower_77,-71,435.62,218,166,Tablet
+Tower_41,-90,39.4,648,443,Smartphone
+Tower_98,-69,97.79,117,16,Laptop
+Tower_42,-51,268.78,980,461,Smartphone
+Tower_35,-45,48.7,278,414,IoT Device
+Tower_37,-42,327.2,434,158,Tablet
+Tower_56,-36,76.44,608,484,IoT Device
+Tower_16,-80,354.39,452,280,IoT Device
+Tower_43,-47,334.56,879,389,Laptop
+Tower_39,-84,315.96,963,108,IoT Device
+Tower_79,-42,141.48,702,149,Tablet
+Tower_85,-48,215.09,376,488,Smartphone
+Tower_7,-38,21.57,408,119,Laptop
+Tower_74,-90,356.26,704,282,IoT Device
+Tower_38,-72,412.76,379,203,Smartphone
+Tower_79,-56,494.82,349,160,Laptop
+Tower_96,-47,90.83,370,417,Laptop
+Tower_65,-85,496.87,425,240,IoT Device
+Tower_74,-51,298.39,487,345,Smartphone
+Tower_17,-90,46.52,134,160,Laptop
+Tower_79,-41,488.81,828,445,IoT Device
+Tower_97,-63,161.33,876,467,Laptop
+Tower_50,-85,384.56,414,129,Laptop
+Tower_10,-79,11.92,221,158,Smartphone
+Tower_100,-55,275.8,276,128,Tablet
+Tower_59,-71,25.57,435,449,Tablet
+Tower_40,-73,464.98,475,423,Laptop
+Tower_37,-67,176.56,979,46,Smartphone
+Tower_86,-36,443.45,330,409,Laptop
+Tower_2,-89,482.66,320,22,Tablet
+Tower_84,-89,342.14,322,69,IoT Device
+Tower_94,-60,356.46,659,146,IoT Device
+Tower_27,-71,410.32,130,50,Laptop
+Tower_7,-63,300.3,170,77,Tablet
+Tower_61,-70,450.11,324,435,Laptop
+Tower_90,-90,139.2,914,428,IoT Device
+Tower_37,-74,322.26,320,88,IoT Device
+Tower_91,-44,203.54,358,132,IoT Device
+Tower_21,-85,329.55,565,445,Smartphone
+Tower_2,-59,19.77,462,192,Laptop
+Tower_7,-41,233.17,939,390,Laptop
+Tower_92,-43,445.06,349,223,IoT Device
+Tower_17,-78,227.4,285,271,Tablet
+Tower_80,-36,298.13,409,372,Laptop
+Tower_11,-63,389.99,379,361,IoT Device
+Tower_16,-30,301.08,101,149,IoT Device
+Tower_64,-75,205.78,794,207,Smartphone
+Tower_32,-57,347.98,622,416,Laptop
+Tower_14,-75,422.22,724,322,IoT Device
+Tower_22,-82,475.45,632,2,Tablet
+Tower_30,-62,445.72,993,175,Laptop
+Tower_71,-84,223.18,561,138,Smartphone
+Tower_93,-79,142.23,214,326,Tablet
+Tower_55,-86,176.73,283,249,IoT Device
+Tower_67,-76,54.13,779,7,IoT Device
+Tower_20,-88,12.63,300,353,Laptop
+Tower_25,-58,114.21,269,191,Laptop
+Tower_93,-48,376.18,981,151,Smartphone
+Tower_82,-38,483.62,53,455,IoT Device
+Tower_83,-55,99.45,692,350,IoT Device
+Tower_3,-40,412.38,157,425,Tablet
+Tower_2,-51,349.12,674,128,Smartphone
+Tower_48,-87,274.75,514,40,Tablet
+Tower_87,-88,197.96,642,77,Smartphone
+Tower_27,-42,28.75,994,395,IoT Device
+Tower_58,-32,276.56,683,35,Smartphone
+Tower_70,-57,393.51,976,236,Smartphone
+Tower_76,-60,255.35,510,296,IoT Device
+Tower_31,-84,42.06,608,206,IoT Device
+Tower_85,-39,17.96,915,227,Smartphone
+Tower_8,-30,380.3,660,154,Tablet
+Tower_33,-58,184.98,776,27,Laptop
+Tower_42,-62,449.24,251,330,IoT Device
+Tower_9,-59,218.66,624,18,Tablet
+Tower_66,-65,187.58,86,107,IoT Device
+Tower_36,-41,190.06,133,435,Laptop
+Tower_16,-72,95.33,227,213,Tablet
+Tower_74,-54,105.08,409,12,Smartphone
+Tower_76,-35,350.41,926,332,IoT Device
+Tower_33,-67,435.03,340,179,Laptop
+Tower_19,-76,304.77,522,266,Laptop
+Tower_35,-82,428.68,660,235,Tablet
+Tower_91,-69,107.16,852,302,Tablet
+Tower_96,-74,344.44,853,319,IoT Device
+Tower_87,-81,175,667,288,Tablet
+Tower_81,-53,167.98,156,25,Laptop
+Tower_78,-50,394.42,229,179,Tablet
+Tower_72,-40,483.54,190,441,Laptop
+Tower_67,-56,166.97,728,479,Smartphone
+Tower_75,-79,423.12,144,256,Smartphone
+Tower_36,-46,222.85,411,398,Tablet
+Tower_26,-56,117.94,531,295,Smartphone
+Tower_89,-54,372.76,263,443,Tablet
+Tower_20,-55,309.43,443,414,IoT Device
+Tower_52,-59,91.7,110,90,IoT Device
+Tower_1,-67,148.76,225,152,IoT Device
+Tower_96,-81,333.49,244,266,IoT Device
+Tower_35,-81,175.3,291,209,Smartphone
+Tower_61,-36,325.57,344,55,IoT Device
+Tower_74,-31,471.3,583,142,IoT Device
+Tower_36,-40,113.21,217,468,Tablet
+Tower_29,-69,269.79,359,290,IoT Device
+Tower_78,-39,374.47,950,71,IoT Device
+Tower_68,-34,465.18,18,90,Laptop
+Tower_85,-72,116.78,870,374,IoT Device
+Tower_32,-90,125.57,995,370,IoT Device
+Tower_56,-50,182.88,288,106,Laptop
+Tower_1,-76,18.52,805,179,Tablet
+Tower_43,-70,366.53,266,438,IoT Device
+Tower_35,-45,128.31,795,55,Tablet
+Tower_74,-59,315.53,622,291,IoT Device
+Tower_26,-78,34.93,533,122,Tablet
+Tower_56,-65,255.98,344,9,Tablet
+Tower_49,-45,27.6,715,27,Laptop
+Tower_30,-42,62.49,532,283,Tablet
+Tower_3,-35,292.89,644,390,Laptop
+Tower_52,-88,33.85,611,94,IoT Device
+Tower_28,-76,420.58,19,96,Smartphone
+Tower_10,-82,301.91,356,79,Tablet
+Tower_28,-60,386.54,631,426,IoT Device
+Tower_76,-77,159.12,673,179,Laptop
+Tower_68,-54,451.11,843,10,Laptop
+Tower_76,-84,276.6,636,419,IoT Device
+Tower_74,-40,345.33,152,379,IoT Device
+Tower_79,-66,266.56,233,137,Smartphone
+Tower_63,-69,225.99,544,362,Laptop
+Tower_90,-44,316.07,62,187,Laptop
+Tower_4,-57,232.02,412,237,Laptop
+Tower_87,-40,113.5,907,163,Smartphone
+Tower_4,-39,474.75,663,345,Laptop
+Tower_10,-58,60.4,830,427,Smartphone
+Tower_30,-62,359.37,507,161,Smartphone
+Tower_77,-69,66.58,662,487,Laptop
+Tower_62,-34,463.71,776,325,Tablet
+Tower_19,-81,231.27,81,298,Laptop
+Tower_5,-32,51.15,773,167,IoT Device
+Tower_37,-61,421.7,841,295,Laptop
+Tower_89,-55,229.94,260,302,Smartphone
+Tower_31,-50,104.56,566,299,Tablet
+Tower_84,-68,257.88,670,188,Laptop
+Tower_11,-67,74.14,131,498,IoT Device
+Tower_55,-90,292.85,619,10,Tablet
+Tower_96,-72,499.83,941,100,Tablet
+Tower_60,-48,38.09,809,124,Smartphone
+Tower_47,-58,255.48,589,199,Laptop
+Tower_24,-54,408.79,219,156,Laptop
+Tower_7,-66,47.27,290,374,IoT Device
+Tower_45,-69,97.47,334,415,Laptop
+Tower_84,-31,234.55,746,42,IoT Device
+Tower_95,-70,169.86,872,306,Laptop
+Tower_18,-43,147.53,475,200,Tablet
+Tower_43,-78,400.22,628,157,Smartphone
+Tower_92,-67,153.3,444,170,Tablet
+Tower_5,-63,159.34,309,208,Tablet
+Tower_36,-61,402.06,370,149,Smartphone
+Tower_72,-52,43.61,135,360,Laptop
+Tower_31,-89,118.31,594,446,Tablet
+Tower_29,-68,72.13,738,63,Smartphone
+Tower_44,-49,153.59,399,413,Laptop
+Tower_33,-58,86.6,224,280,Tablet
+Tower_63,-79,60.19,229,108,Tablet
+Tower_32,-31,153.52,357,63,Laptop
+Tower_6,-77,310.09,52,257,Tablet
+Tower_32,-44,14.15,780,447,Smartphone
+Tower_24,-87,408,691,10,Smartphone
+Tower_14,-78,49.67,927,227,Laptop
+Tower_21,-77,357.96,301,400,Tablet
+Tower_64,-64,49.58,255,224,Laptop
+Tower_54,-82,146.51,933,292,Laptop
+Tower_88,-37,243.99,45,71,Laptop
+Tower_65,-35,270.94,416,102,Tablet
+Tower_29,-41,172.89,752,339,Laptop
+Tower_49,-79,22.01,889,333,Tablet
+Tower_7,-51,27.91,539,272,Tablet
+Tower_62,-32,379.03,511,109,Tablet
+Tower_89,-38,78.05,820,441,Smartphone
+Tower_97,-66,140.84,705,291,Laptop
+Tower_84,-59,70.71,12,439,Tablet
+Tower_65,-56,188.75,301,418,Tablet
+Tower_51,-37,262.61,371,176,IoT Device
+Tower_98,-80,367.36,264,167,Laptop
+Tower_94,-84,197.83,754,83,Smartphone
+Tower_45,-44,458.35,717,340,Tablet
+Tower_61,-43,192.87,214,3,Laptop
+Tower_60,-89,327.95,994,422,Laptop
+Tower_21,-63,393.16,900,459,Smartphone
+Tower_62,-56,467.39,933,295,IoT Device
+Tower_82,-72,121.3,756,46,Smartphone
+Tower_12,-58,156.73,477,370,Laptop
+Tower_32,-62,340,390,358,Smartphone
+Tower_11,-84,53.99,989,456,IoT Device
+Tower_12,-83,81.25,457,182,Laptop
+Tower_92,-38,355.37,899,104,IoT Device
+Tower_43,-59,84.94,658,488,Laptop
+Tower_44,-48,395.21,746,283,Smartphone
+Tower_96,-58,200.74,450,71,Laptop
+Tower_68,-53,457.28,220,372,Laptop
+Tower_59,-63,484.03,307,488,Smartphone
+Tower_10,-70,28.69,270,6,Smartphone
+Tower_50,-31,26.63,24,165,Tablet
+Tower_89,-43,475.69,928,161,IoT Device
+Tower_94,-51,404.83,572,410,Laptop
+Tower_13,-32,370.91,273,190,IoT Device
+Tower_93,-40,415.15,967,362,Laptop
+Tower_15,-47,68.73,806,292,Smartphone
+Tower_43,-56,98.61,894,194,Smartphone
+Tower_74,-87,456.33,663,6,IoT Device
+Tower_61,-36,234.09,999,476,Tablet
+Tower_88,-85,193.76,838,170,Laptop
+Tower_92,-70,420.33,993,206,Laptop
+Tower_99,-30,412.32,380,137,Laptop
+Tower_42,-38,99.81,322,322,IoT Device
+Tower_48,-41,484.31,490,17,Tablet
+Tower_59,-70,452.36,886,268,Laptop
+Tower_19,-30,72.17,804,205,Laptop
+Tower_92,-57,476.53,274,278,Laptop
+Tower_21,-73,400.45,998,407,IoT Device
+Tower_63,-77,280.11,213,135,Tablet
+Tower_91,-90,345.11,64,308,IoT Device
+Tower_29,-84,9.9,843,33,Laptop
+Tower_35,-63,277.73,336,348,Tablet
+Tower_97,-55,115.44,580,4,Laptop
+Tower_77,-68,206.09,312,378,IoT Device
+Tower_100,-49,499.12,894,153,Tablet
+Tower_63,-61,94.55,823,447,Laptop
+Tower_98,-38,305.92,580,302,Smartphone
+Tower_59,-73,189.05,95,366,Tablet
+Tower_7,-69,66.65,781,203,IoT Device
+Tower_76,-77,365,920,497,IoT Device
+Tower_60,-90,492.66,204,466,IoT Device
+Tower_92,-53,396.2,686,30,Tablet
+Tower_24,-42,445.96,569,182,Tablet
+Tower_62,-88,296.38,956,49,Smartphone
+Tower_74,-44,311.17,205,161,Tablet
+Tower_39,-69,231.6,123,76,Tablet
+Tower_88,-38,313.13,979,241,IoT Device
+Tower_64,-47,299.39,288,325,Tablet
+Tower_11,-67,392.12,956,22,Smartphone
+Tower_24,-36,6.67,933,375,Tablet
+Tower_84,-53,140.49,271,204,Smartphone
+Tower_66,-54,40.26,161,134,IoT Device
+Tower_11,-36,484.72,16,231,Smartphone
+Tower_85,-85,357,728,433,Laptop
+Tower_99,-58,7.67,693,136,IoT Device
+Tower_45,-32,115.1,572,129,Smartphone
+Tower_25,-50,336.73,65,329,Smartphone
+Tower_72,-79,199.8,216,403,Laptop
+Tower_45,-89,132.84,671,321,Tablet
+Tower_11,-74,361.26,652,200,Laptop
+Tower_83,-83,451.13,838,186,Tablet
+Tower_60,-84,114.44,721,469,Tablet
+Tower_91,-43,489.76,492,331,Tablet
+Tower_74,-33,458.54,826,269,Smartphone
+Tower_76,-67,174.89,841,285,Tablet
+Tower_37,-86,383.61,801,480,Smartphone
+Tower_56,-58,183.84,264,433,Laptop
+Tower_58,-65,311.76,745,134,Tablet
+Tower_54,-83,323.06,56,256,Smartphone
+Tower_20,-69,66.51,178,481,Tablet
+Tower_5,-74,350.36,878,313,Laptop
+Tower_59,-32,66.84,143,70,Laptop
+Tower_74,-89,109.66,380,109,Tablet
+Tower_21,-58,464.07,739,64,Laptop
+Tower_64,-54,438.95,203,178,Smartphone
+Tower_45,-32,223.83,364,152,IoT Device
+Tower_77,-57,94.08,264,394,IoT Device
+Tower_68,-64,448.17,277,449,Tablet
+Tower_34,-62,84.33,445,215,Smartphone
+Tower_37,-73,148.62,785,407,Laptop
+Tower_77,-54,96.52,350,432,Laptop
+Tower_71,-46,488.25,18,7,Laptop
+Tower_8,-56,310.48,166,39,Laptop
+Tower_44,-62,246.34,591,181,Smartphone
+Tower_92,-47,201.69,819,122,Tablet
+Tower_21,-35,8.99,825,393,Laptop
+Tower_14,-38,103.47,713,439,Laptop
+Tower_26,-54,448.86,193,84,Laptop
+Tower_52,-89,220.28,626,124,Tablet
+Tower_49,-51,19.41,96,440,IoT Device
+Tower_37,-40,285.31,952,111,Smartphone
+Tower_29,-32,490.45,295,151,Laptop
+Tower_86,-82,326.69,611,48,Tablet
+Tower_18,-65,86.57,756,5,Smartphone
+Tower_19,-37,182.52,514,362,Tablet
+Tower_77,-49,440.21,732,148,Smartphone
+Tower_13,-76,290.52,484,440,Tablet
+Tower_90,-81,326.55,169,104,Tablet
+Tower_70,-84,387.46,790,308,Laptop
+Tower_6,-53,194.93,655,163,IoT Device
+Tower_65,-41,38.53,385,55,IoT Device
+Tower_32,-80,252.45,266,129,Smartphone
+Tower_33,-80,430.68,543,458,IoT Device
+Tower_67,-90,372.18,677,395,Tablet
+Tower_50,-72,471.43,919,396,IoT Device
+Tower_43,-70,307.18,319,3,IoT Device
+Tower_77,-72,218.71,851,63,IoT Device
+Tower_100,-51,139.48,958,463,Tablet
+Tower_76,-42,293.02,576,427,Laptop
+Tower_77,-65,267.71,172,341,IoT Device
+Tower_11,-63,122.77,543,48,Tablet
+Tower_21,-63,138.81,63,499,Tablet
+Tower_64,-37,143.03,29,380,Smartphone
+Tower_77,-53,200.9,420,342,Laptop
+Tower_5,-39,461.33,265,287,Tablet
+Tower_100,-63,346.43,706,382,Smartphone
+Tower_94,-58,284.64,190,162,Laptop
+Tower_74,-71,452.76,755,40,Laptop
+Tower_54,-30,8.21,351,80,Tablet
+Tower_21,-80,197.73,821,499,IoT Device
+Tower_55,-75,355.41,195,407,Smartphone
+Tower_82,-55,322.15,320,372,Smartphone
+Tower_47,-33,425.89,930,9,IoT Device
+Tower_12,-83,189.82,709,222,IoT Device
+Tower_93,-79,382.64,335,28,Smartphone
+Tower_30,-53,379.58,667,266,IoT Device
+Tower_48,-72,197.12,666,22,Tablet
+Tower_63,-79,136.68,980,461,Smartphone
+Tower_17,-87,31.95,930,27,Laptop
+Tower_77,-78,116.79,646,118,IoT Device
+Tower_88,-55,76.15,682,50,IoT Device
+Tower_91,-77,59.82,964,347,IoT Device
+Tower_46,-42,161.08,262,304,Tablet
+Tower_77,-33,204.18,98,496,Tablet
+Tower_46,-59,9.35,591,254,Smartphone
+Tower_1,-51,103.39,689,429,Laptop
+Tower_55,-37,236.94,633,87,Tablet
+Tower_15,-45,191.77,441,390,IoT Device
+Tower_10,-84,312.69,559,32,Tablet
+Tower_31,-57,312.33,997,298,Tablet
+Tower_30,-39,450.14,922,281,IoT Device
+Tower_78,-59,454.88,176,410,Laptop
+Tower_8,-31,383.79,484,252,Smartphone
+Tower_4,-71,438.73,43,37,Smartphone
+Tower_70,-46,437.89,847,249,Tablet
+Tower_37,-71,163.93,309,102,Tablet
+Tower_91,-64,308.99,62,166,Laptop
+Tower_48,-37,280.62,992,262,Laptop
+Tower_71,-35,423.66,401,14,Smartphone
+Tower_67,-53,221.46,738,215,Smartphone
+Tower_82,-87,196.5,648,263,IoT Device
+Tower_89,-54,321.58,763,192,Laptop
+Tower_23,-79,307.34,694,117,Laptop
+Tower_71,-59,95.94,826,96,Tablet
+Tower_85,-64,405.29,948,210,Laptop
+Tower_62,-80,55.29,319,9,Smartphone
+Tower_95,-76,204.15,260,414,Laptop
+Tower_5,-33,462.78,911,135,Tablet
+Tower_12,-40,204.39,147,69,Smartphone
+Tower_68,-82,76.9,493,499,Smartphone
+Tower_68,-78,96.59,831,207,Laptop
+Tower_100,-54,218.75,826,197,Laptop
+Tower_73,-47,184.1,175,103,Tablet
+Tower_71,-32,152.1,419,1,Laptop
+Tower_3,-43,356.4,859,469,Smartphone
+Tower_51,-37,356.47,524,218,IoT Device
+Tower_2,-55,440.54,736,289,IoT Device
+Tower_43,-40,63.15,61,37,Tablet
+Tower_50,-70,415.92,16,481,Laptop
+Tower_51,-58,484.24,297,444,IoT Device
+Tower_60,-75,357.6,958,464,Laptop
+Tower_100,-56,420.09,717,461,Tablet
+Tower_90,-57,222.47,31,373,Smartphone
+Tower_14,-50,326.88,771,451,IoT Device
+Tower_87,-69,143.42,396,447,Tablet
+Tower_57,-33,380.32,699,121,Laptop
+Tower_38,-51,407.67,91,410,IoT Device
+Tower_27,-38,421.04,381,184,Smartphone
+Tower_62,-50,331.97,314,138,Tablet
+Tower_53,-77,19.37,345,462,Tablet
+Tower_14,-62,0.78,977,206,IoT Device
+Tower_99,-67,464.84,762,103,Smartphone
+Tower_17,-42,222.86,656,48,IoT Device
+Tower_39,-87,254.78,945,278,Laptop
+Tower_49,-65,54.24,421,83,IoT Device
+Tower_16,-44,18.04,663,303,Smartphone
+Tower_38,-62,58.76,484,374,IoT Device
+Tower_69,-30,399.4,438,272,Laptop
+Tower_18,-35,418.63,572,366,Smartphone
+Tower_56,-31,134.86,372,104,Laptop
+Tower_52,-58,193.05,936,438,Smartphone
+Tower_60,-62,286.52,89,264,Tablet
+Tower_16,-45,114.62,575,148,Laptop
+Tower_50,-55,293.59,360,234,Smartphone
+Tower_25,-36,151.77,227,470,Smartphone
+Tower_60,-30,198.96,254,452,Tablet
+Tower_26,-56,11.52,962,44,Tablet
+Tower_44,-87,339.44,347,333,IoT Device
+Tower_92,-55,246.23,779,123,Laptop
+Tower_16,-31,110.6,837,236,IoT Device
+Tower_20,-41,196.29,407,110,IoT Device
+Tower_43,-70,372.96,990,341,Laptop
+Tower_69,-41,177.24,348,226,Tablet
+Tower_100,-43,248.5,594,437,IoT Device
+Tower_70,-80,13.57,970,438,Laptop
+Tower_91,-45,132.71,88,55,Laptop
+Tower_87,-83,71.8,765,417,IoT Device
+Tower_31,-49,242.45,296,488,Smartphone
+Tower_73,-31,147.53,272,304,Tablet
+Tower_39,-44,477.37,249,71,IoT Device
+Tower_63,-53,5.27,558,408,Laptop
+Tower_4,-67,415.47,154,342,Smartphone
+Tower_22,-32,20.76,709,168,Tablet
+Tower_29,-75,113.76,720,434,Smartphone
+Tower_7,-75,450.93,329,227,Laptop
+Tower_19,-57,387.79,884,354,Smartphone
+Tower_74,-56,401.29,888,410,IoT Device
+Tower_78,-52,123.55,835,468,IoT Device
+Tower_58,-59,88.41,770,414,Smartphone
+Tower_96,-78,375.14,257,341,Laptop
+Tower_65,-82,50.86,750,267,Laptop
+Tower_27,-75,45.86,681,335,IoT Device
+Tower_83,-90,146.67,119,441,Tablet
+Tower_93,-62,302.4,726,37,IoT Device
+Tower_58,-57,100.38,381,361,Smartphone
+Tower_91,-45,303.2,566,468,Tablet
+Tower_40,-38,463.38,901,326,IoT Device
+Tower_2,-64,8.53,124,353,IoT Device
+Tower_39,-42,59.86,371,50,Smartphone
+Tower_23,-35,132.47,446,152,IoT Device
+Tower_47,-30,98.49,484,89,Laptop
+Tower_38,-36,365.43,129,170,Laptop
+Tower_53,-38,185.94,225,105,IoT Device
+Tower_46,-51,15.42,841,406,IoT Device
+Tower_66,-84,323.07,465,108,Tablet
+Tower_66,-46,416.64,997,379,IoT Device
+Tower_11,-30,292.88,970,391,Laptop
+Tower_73,-81,115.86,442,135,Tablet
+Tower_58,-54,243.41,70,76,Tablet
+Tower_89,-76,427.84,923,136,Smartphone
+Tower_29,-55,428.26,372,284,IoT Device
+Tower_96,-36,60.23,646,365,Tablet
+Tower_94,-33,460.14,736,438,Smartphone
+Tower_60,-81,334.55,352,452,Tablet
+Tower_10,-79,236.72,216,330,IoT Device
+Tower_26,-52,336.45,258,289,Smartphone
+Tower_79,-66,304.11,980,169,IoT Device
+Tower_50,-48,94.92,663,320,Laptop
+Tower_44,-84,371.91,454,455,Tablet
+Tower_22,-46,147.61,191,288,Smartphone
+Tower_84,-89,29.48,328,67,IoT Device
+Tower_93,-71,393.94,267,274,Laptop
+Tower_67,-40,275.15,304,217,Smartphone
+Tower_36,-75,296.52,37,391,Laptop
+Tower_19,-61,237.88,796,78,Laptop
+Tower_28,-75,147.46,298,333,IoT Device
+Tower_57,-77,335.24,527,338,Tablet
+Tower_64,-85,262.35,754,227,Smartphone
+Tower_45,-74,441.18,70,6,Laptop
+Tower_38,-42,272.36,416,428,Smartphone
+Tower_99,-43,454.41,390,148,Smartphone
+Tower_51,-83,142.54,405,262,Smartphone
+Tower_73,-88,208.06,920,43,Smartphone
+Tower_100,-51,86.18,431,477,IoT Device
+Tower_93,-77,88.5,366,186,Tablet
+Tower_94,-53,66.81,623,394,Laptop
+Tower_88,-75,220.59,837,420,IoT Device
+Tower_79,-40,296.99,565,307,Laptop
+Tower_3,-34,411.36,602,102,IoT Device
+Tower_66,-88,436.28,332,253,Laptop
+Tower_85,-37,207.3,195,3,Tablet
+Tower_55,-50,404.23,432,24,Tablet
+Tower_15,-81,83.82,540,488,IoT Device
+Tower_3,-82,29.46,101,112,Laptop
+Tower_63,-66,281.47,746,410,Smartphone
+Tower_16,-32,170.38,559,290,Smartphone
+Tower_24,-31,308.64,219,307,Tablet
+Tower_1,-37,132.03,866,488,Laptop
+Tower_52,-67,363.17,556,71,Tablet
+Tower_20,-88,286.58,128,319,Smartphone
+Tower_92,-58,88.84,506,51,IoT Device
+Tower_29,-84,195.3,790,248,Tablet
+Tower_6,-54,188.92,255,231,Tablet
+Tower_68,-85,354.55,874,447,IoT Device
+Tower_97,-54,476.36,711,182,Laptop
+Tower_51,-89,148.56,438,339,IoT Device
+Tower_90,-54,42.04,572,165,Laptop
+Tower_21,-38,229.73,128,106,Laptop
+Tower_13,-83,330.54,148,203,IoT Device
+Tower_11,-37,295.11,366,365,Laptop
+Tower_35,-67,7.16,241,333,Tablet
+Tower_80,-88,434.43,88,262,Smartphone
+Tower_12,-33,137.57,768,294,Tablet
+Tower_18,-35,271.59,204,312,Smartphone
+Tower_34,-54,423.71,107,451,Laptop
+Tower_63,-51,491.27,827,212,Smartphone
+Tower_74,-81,245.93,803,11,Smartphone
+Tower_33,-61,328.28,371,328,IoT Device
+Tower_32,-55,433.37,675,61,Tablet
+Tower_98,-63,416.96,151,258,IoT Device
+Tower_99,-68,98.98,194,273,Tablet
+Tower_42,-78,149.04,142,424,Smartphone
+Tower_78,-34,416.08,320,116,Smartphone
+Tower_48,-69,412.06,313,291,Smartphone
+Tower_94,-88,160.21,558,53,Smartphone
+Tower_96,-70,357.95,373,173,Tablet
+Tower_74,-30,3.31,798,301,Laptop
+Tower_72,-72,165.87,832,284,Laptop
+Tower_75,-32,72.54,315,383,Smartphone
+Tower_49,-89,474.81,180,472,Laptop
+Tower_6,-66,44.22,612,480,IoT Device
+Tower_91,-90,29.1,324,195,Smartphone
+Tower_9,-44,289.01,635,158,Tablet
+Tower_77,-40,343.24,250,134,Laptop
+Tower_87,-88,344.21,45,481,IoT Device
+Tower_98,-72,406.95,555,495,IoT Device
+Tower_24,-49,50.82,225,322,IoT Device
+Tower_31,-85,328.39,752,363,Tablet
+Tower_76,-31,293.8,706,151,IoT Device
+Tower_52,-66,266.33,292,143,Smartphone
+Tower_24,-80,482.01,429,472,IoT Device
+Tower_75,-43,286.85,93,439,IoT Device
+Tower_10,-80,267,177,205,Smartphone
+Tower_3,-80,80.15,644,166,IoT Device
+Tower_90,-85,487.06,558,342,Smartphone
+Tower_45,-42,376.88,450,100,IoT Device
+Tower_96,-70,237.4,912,96,Tablet
+Tower_70,-49,40.41,530,16,Smartphone
+Tower_42,-67,421.5,119,393,Tablet
+Tower_90,-57,348.42,903,16,Tablet
+Tower_59,-42,214.32,752,229,Tablet
+Tower_93,-41,135.79,662,81,IoT Device
+Tower_37,-64,106.35,616,100,IoT Device
+Tower_90,-89,83.34,776,87,Tablet
+Tower_38,-85,59.5,373,178,Laptop
+Tower_47,-52,490.02,293,11,Smartphone
+Tower_65,-78,274.26,321,63,Tablet
+Tower_79,-49,266.68,482,149,Tablet
+Tower_38,-90,263.24,352,101,IoT Device
+Tower_19,-53,138.9,41,433,Tablet
+Tower_55,-31,203.68,133,302,Tablet
+Tower_36,-62,172.04,466,56,IoT Device
+Tower_22,-43,247.26,435,100,Laptop
+Tower_15,-62,124.72,945,364,Tablet
+Tower_80,-30,394.94,941,62,Laptop
+Tower_93,-50,334.19,705,307,IoT Device
+Tower_84,-36,168.78,762,147,Tablet
+Tower_60,-39,201.14,755,405,IoT Device
+Tower_53,-53,49.79,381,190,Smartphone
+Tower_37,-37,37.16,458,466,IoT Device
+Tower_44,-57,265.67,548,400,IoT Device
+Tower_100,-59,21.09,240,361,Tablet
+Tower_31,-76,151.31,602,17,Laptop
+Tower_15,-33,358.58,577,465,Laptop
+Tower_78,-57,225.83,275,183,Laptop
+Tower_31,-67,326,985,376,IoT Device
+Tower_47,-58,107.91,111,79,Tablet
+Tower_59,-64,385.11,30,220,Smartphone
+Tower_56,-88,21.81,583,463,Laptop
+Tower_30,-57,191.1,618,494,Tablet
+Tower_65,-87,7.02,780,357,Smartphone
+Tower_13,-62,37.5,286,439,IoT Device
+Tower_68,-88,279.45,359,235,Laptop
+Tower_19,-80,363.24,175,366,IoT Device
+Tower_73,-73,325.22,141,289,Smartphone
+Tower_100,-71,41.15,94,264,Laptop
+Tower_39,-52,299.75,991,446,Smartphone
+Tower_85,-45,174.14,653,223,IoT Device
+Tower_4,-90,96.58,654,274,Tablet
+Tower_68,-44,310.43,945,145,Smartphone
+Tower_58,-73,304.16,667,383,IoT Device
+Tower_46,-45,435.49,159,130,Smartphone
+Tower_92,-78,279.31,672,134,Smartphone
+Tower_38,-89,270.34,79,431,Tablet
+Tower_5,-47,96.63,706,378,IoT Device
+Tower_11,-73,466.92,98,48,Tablet
+Tower_69,-38,334.82,200,7,Tablet
+Tower_80,-30,160.11,599,487,Tablet
+Tower_39,-65,167.48,328,422,IoT Device
+Tower_95,-71,120.66,44,109,Tablet
+Tower_9,-46,59.61,45,377,Tablet
+Tower_66,-65,75.65,421,2,Tablet
+Tower_37,-84,88.78,463,92,IoT Device
+Tower_62,-75,267.43,483,368,Laptop
+Tower_47,-32,156.23,684,282,Tablet
+Tower_4,-68,46.89,19,303,IoT Device
+Tower_21,-90,16.64,501,59,Laptop
+Tower_20,-35,7.51,864,61,Smartphone
+Tower_17,-84,465.91,952,417,IoT Device
+Tower_16,-61,190.87,700,115,IoT Device
+Tower_15,-48,96.09,314,231,Tablet
+Tower_6,-58,331.51,619,219,Tablet
+Tower_64,-54,223.29,806,475,IoT Device
+Tower_87,-38,116.27,442,197,IoT Device
+Tower_88,-72,434.33,803,231,IoT Device
+Tower_46,-59,114.7,434,142,Laptop
+Tower_92,-79,60.56,864,402,IoT Device
+Tower_58,-36,232.64,744,220,IoT Device
+Tower_53,-68,361.25,664,312,Smartphone
+Tower_19,-88,237.54,500,99,Tablet
+Tower_66,-69,438.72,536,74,Smartphone
+Tower_75,-68,296.24,280,79,IoT Device
+Tower_9,-78,223.82,882,24,IoT Device
+Tower_87,-57,472.21,998,349,Tablet
+Tower_8,-31,219.33,388,445,Tablet
+Tower_6,-57,400.81,175,118,Tablet
+Tower_23,-62,233.91,901,340,Laptop
+Tower_90,-63,334.83,327,448,Smartphone
+Tower_32,-45,409.5,626,482,IoT Device
+Tower_89,-58,139.64,774,125,Tablet
+Tower_30,-31,257.84,806,60,Smartphone
+Tower_36,-78,54.01,317,203,Laptop
+Tower_8,-65,191.6,108,485,Laptop
+Tower_91,-50,84.19,243,82,Tablet
+Tower_59,-60,446.48,237,229,Laptop
+Tower_51,-33,418.59,717,132,IoT Device
+Tower_82,-40,345.51,11,160,Smartphone
+Tower_23,-42,60.89,519,127,Smartphone
+Tower_1,-77,405.46,794,243,Smartphone
+Tower_55,-90,116.32,758,275,Laptop
+Tower_46,-81,409.31,270,28,Smartphone
+Tower_80,-53,424.48,651,205,Smartphone
+Tower_65,-88,437.81,856,356,IoT Device
+Tower_97,-71,264.82,866,5,Laptop
+Tower_54,-59,391.06,766,445,Tablet
+Tower_8,-77,279.22,204,375,Smartphone
+Tower_60,-41,283.14,955,255,Smartphone
+Tower_6,-78,400.75,760,481,Laptop
+Tower_55,-80,437.76,403,458,IoT Device
+Tower_43,-61,229.07,665,349,Smartphone
+Tower_88,-89,379.16,973,496,IoT Device
+Tower_44,-56,140.59,869,265,Laptop
+Tower_47,-81,458.01,253,61,Laptop
+Tower_49,-82,327.03,433,165,Tablet
+Tower_26,-75,96.61,338,283,Tablet
+Tower_77,-57,477.59,630,33,Tablet
+Tower_25,-89,78.99,783,308,IoT Device
+Tower_41,-77,88.34,367,387,Laptop
+Tower_45,-87,467.54,106,498,Smartphone
+Tower_20,-34,39.54,755,97,IoT Device
+Tower_66,-55,77.62,652,238,IoT Device
+Tower_62,-70,306.64,962,425,IoT Device
+Tower_33,-35,84.11,372,157,Smartphone
+Tower_3,-41,404.11,502,370,Laptop
+Tower_72,-76,94.41,256,197,IoT Device
+Tower_6,-73,53.82,479,264,Tablet
+Tower_89,-66,485.73,269,404,Tablet
+Tower_67,-35,305.08,711,444,Smartphone
+Tower_97,-82,336.62,609,286,Smartphone
+Tower_72,-72,319.45,324,492,Smartphone
+Tower_83,-33,404.74,695,210,Smartphone
+Tower_4,-86,362,282,3,Laptop
+Tower_21,-42,158.56,964,414,IoT Device
+Tower_79,-78,123.51,989,132,Smartphone
+Tower_80,-47,252.06,752,226,Smartphone
+Tower_59,-84,445.12,973,492,IoT Device
+Tower_17,-73,214.31,393,295,Tablet
+Tower_72,-49,25.2,457,214,Laptop
+Tower_83,-63,260.13,800,217,Smartphone
+Tower_50,-37,16.25,862,274,Smartphone
+Tower_78,-35,44.29,402,477,Laptop
+Tower_90,-57,322.06,762,461,IoT Device
+Tower_69,-33,484.49,532,352,Smartphone
+Tower_15,-79,405.59,909,388,Smartphone
+Tower_85,-42,324.32,392,347,IoT Device
+Tower_20,-41,181.27,893,81,Tablet
+Tower_4,-54,360.65,994,195,Laptop
+Tower_63,-45,494.99,949,95,Smartphone
+Tower_52,-42,211.96,663,227,Smartphone
+Tower_76,-45,234.8,267,145,Laptop
+Tower_82,-60,227.4,101,56,Smartphone
+Tower_18,-50,66.59,150,326,Smartphone
+Tower_84,-45,90.99,684,473,IoT Device
+Tower_61,-63,61.41,355,106,Tablet
+Tower_51,-32,85.3,203,47,IoT Device
+Tower_31,-64,482.03,676,303,Tablet
+Tower_44,-42,238.7,889,341,Tablet
