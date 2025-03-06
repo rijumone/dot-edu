@@ -192,8 +192,7 @@ def main():
         st.sidebar.markdown(f'Retrieved doc chunks:')
         for r_d in retrieved_docs:
             st.sidebar.markdown(f'- {r_d}')
-            st.sidebar.markdown(f'Confidence: ```{round(
-                hybrid_confidence(user_input, r_d), 2)}```')
+            st.sidebar.markdown(f'Confidence: ```{round(hybrid_confidence(user_input, r_d),2)}```')
         st.sidebar.markdown('---')
         response_msg = {
             "role": "assistant",
