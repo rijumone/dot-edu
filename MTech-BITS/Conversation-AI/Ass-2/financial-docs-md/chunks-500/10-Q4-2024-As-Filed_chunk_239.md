@@ -1,0 +1,2 @@
+The technology industry, including, in some instances, the Company, is subject to intense media, political and regulatory
+scrutiny, which exposes the Company to increasing regulation, government investigations, legal actions and penalties.

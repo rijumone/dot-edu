@@ -1,0 +1,3 @@
+certain  product-related  bundled  services,  which  include  iCloud®,  Siri®  and  Maps.  The  Company  allocates  revenue  and  any
+related  discounts  to  all  of  its  performance  obligations  based  on  their  relative  SSPs.  Because  the  Company  lacks  observable
+prices  for  product-related  bundled  services,  the  allocation  of  revenue  is  based  on  the  Company’s  estimated  SSPs.  Revenue

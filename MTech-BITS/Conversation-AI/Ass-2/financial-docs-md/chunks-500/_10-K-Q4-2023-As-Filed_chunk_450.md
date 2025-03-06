@@ -1,0 +1,3 @@
+The derivative assets above represent the Company’s gross credit exposure if all counterparties failed to perform. To mitigate
+credit risk, the Company generally uses collateral security arrangements that provide for collateral to be received or posted when
+the  net  fair  values  of  certain  derivatives  fluctuate  from  contractually  established  thresholds.  To  further  limit  credit  risk,  the

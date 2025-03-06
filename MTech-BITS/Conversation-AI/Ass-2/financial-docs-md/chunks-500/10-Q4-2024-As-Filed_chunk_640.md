@@ -1,0 +1,1 @@
+As of September 28, 2024, Apple Inc. (“Apple” or the “Company”) had nine classes of securities registered

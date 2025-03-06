@@ -1,0 +1,3 @@
+The  Company  is  subject  to  taxation  and  files  income  tax  returns  in  the  U.S.  federal  jurisdiction  and  many  state  and  foreign
+jurisdictions.  Tax  years  after  2017  for  the  U.S.  federal  jurisdiction,  and  after  2014  in  certain  major  foreign  jurisdictions,  remain
+subject  to  examination.  Although  the  timing  of  resolution  or  closure  of  examinations  is  not  certain,  the  Company believes  it  is

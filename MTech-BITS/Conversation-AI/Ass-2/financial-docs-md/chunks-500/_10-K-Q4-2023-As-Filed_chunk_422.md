@@ -1,0 +1,3 @@
+For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the
+Company  recognizes  revenue  based  on  the  gross  amount  billed  to  customers.  The  Company  considers  multiple  factors  when
+determining  whether  it  obtains  control  of  third-party  products,  including  evaluating  if  it  can  establish  the  price  of  the  product,

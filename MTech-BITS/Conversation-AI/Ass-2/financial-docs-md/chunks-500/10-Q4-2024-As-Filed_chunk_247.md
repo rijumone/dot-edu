@@ -1,0 +1,3 @@
+Further,  the  Company  has  commercial  relationships  with  other  companies  in  the  technology  industry  that  are  or  may  become
+subject  to  investigations  and  litigation  that,  if  resolved  against  those  other  companies,  could  materially  adversely  affect  the
+Company’s  commercial  relationships  with  those  business  partners  and  materially  adversely  affect  the  Company’s  business,

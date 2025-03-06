@@ -1,0 +1,5 @@
+the sum of the present values of the remaining scheduled payments of principal and interest thereon
+assuming that the Notes matured on the applicable Par Call Date (not including any portion of such
+payments of interest accrued as of the date of redemption), discounted to the date of redemption on an
+annual basis (ACTUAL/ACTUAL (ICMA)) at the applicable Comparable Government Bond Rate (as
+defined below), plus 10 basis points in the case of the 0.000% 2025 Notes, plus 15 basis points in the

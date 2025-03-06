@@ -1,0 +1,3 @@
+On an annual basis, the Company may request approval from the Irish Minister for Finance to reduce the recovery amount for
+certain  taxes  paid  to  other  countries.  As  of  September  30,  2023,  the  adjusted  recovery  amount  was  €12.7  billion,  excluding
+interest.  The  adjusted  recovery  amount  plus  interest  is  funded  into  escrow,  where  it  will  remain  restricted  from  general  use

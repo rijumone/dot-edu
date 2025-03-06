@@ -1,0 +1,3 @@
+The  Company  records  a  write-down  for  product  and  component  inventories  that  have  become  obsolete  or  exceed  anticipated
+demand,  or  for  which  cost  exceeds  net  realizable  value.  The  Company  also  accrues  necessary  cancellation  fee  reserves  for
+orders  of  excess  products  and  components.  The  Company  reviews  long-lived  assets,  including  capital  assets  held  at  its

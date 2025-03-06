@@ -1,0 +1,3 @@
+Company’s  and  its  suppliers’  operations  and  facilities  are  subject  to  the  risk  of  interruption  by  fire,  power  shortages,  nuclear
+power plant accidents and other industrial accidents, terrorist attacks and other hostile acts, ransomware and other cybersecurity
+attacks, labor disputes, public health issues and other events beyond the Company’s control. For example, global supply chains

@@ -1,0 +1,3 @@
+performance.  Price  volatility  may  cause  the  average  price  at  which  the  Company  repurchases  its  stock  in  a  given  period  to
+exceed the stock’s price at a given point in time. The Company believes the price of its stock should reflect expectations of future
+growth and profitability. The Company also believes the price of its stock should reflect expectations that its cash dividend will

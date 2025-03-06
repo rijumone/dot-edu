@@ -1,0 +1,3 @@
+The Company has an insider trading policy governing the purchase, sale and other dispositions of the Company’s securities that
+applies  to  all  Company  personnel,  including  directors,  officers,  employees,  and  other  covered  persons.  The  Company  also
+follows  procedures  for  the  repurchase  of  its  securities.  The  Company  believes  that  its  insider  trading  policy  and  repurchase

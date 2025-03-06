@@ -1,0 +1,1 @@
+these competing platforms, the availability and quality of applications for the Company’s devices can suffer.

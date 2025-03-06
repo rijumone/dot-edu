@@ -1,0 +1,3 @@
+Because  the  industries  in  which  the  Company  competes  are  characterized  by  rapid  technological  advances,  the  Company’s
+ability  to  compete  successfully  depends  heavily  upon  its  ability  to  ensure  a  continual  and  timely  flow  of  competitive  products,
+services  and  technologies  to  the  marketplace.  The  Company  continues  to  develop  new  technologies  to  enhance  existing

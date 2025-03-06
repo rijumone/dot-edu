@@ -1,0 +1,2 @@
+weaken, these resellers could stop distributing the Company’s products, or uncertainty regarding demand for some or all of the
+Company’s products could cause resellers to reduce their ordering and marketing of the Company’s products.

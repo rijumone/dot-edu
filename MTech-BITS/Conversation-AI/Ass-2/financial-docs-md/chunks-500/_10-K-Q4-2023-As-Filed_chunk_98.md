@@ -1,0 +1,3 @@
+accidents,  terrorist  attacks  and  other  hostile  acts,  ransomware  and  other  cybersecurity  attacks,  labor  disputes,  public  health
+issues, including pandemics such as the COVID-19 pandemic, and other events beyond the Company’s control. Global climate
+change  is  resulting  in  certain  types  of  natural  disasters,  such  as  droughts,  floods,  hurricanes  and  wildfires,  occurring  more

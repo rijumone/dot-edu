@@ -1,0 +1,3 @@
+Conversely, a strengthening of foreign currencies relative to the U.S. dollar, while generally beneficial to the Company’s foreign
+currency–denominated  sales  and  earnings,  could  cause  the  Company  to  reduce  international  pricing  or  incur  losses  on  its
+foreign  currency  derivative  instruments,  thereby  limiting  the  benefit.  Additionally,  strengthening  of  foreign  currencies  may

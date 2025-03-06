@@ -1,0 +1,2 @@
+intellectual property right is solely responsible for protecting the Company’s products and services. The Company believes the
+duration of its intellectual property rights is adequate relative to the expected lives of its products and services.

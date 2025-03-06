@@ -1,0 +1,2 @@
+vested pursuant to the Award on such Vesting Date but for the Termination of Service and to the extent
+the  applicable  performance-based  vesting  requirement  is  satisfied,  by  (ii)  the  Severance  Fraction

@@ -1,0 +1,3 @@
+can  result  in  widespread  technical  and  performance  issues  affecting  the  Company’s  products  and  services.  In  addition,  the
+Company  can  be  exposed  to  product  liability  claims,  recalls,  product  replacements  or  modifications,  write-offs  of  inventory,
+property,  plant  and  equipment  or  intangible  assets,  and  significant  warranty  and  other  expenses,  including  litigation  costs  and

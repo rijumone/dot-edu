@@ -1,0 +1,3 @@
+procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to
+permit  preparation  of  financial  statements  in  accordance  with  U.S.  generally  accepted  accounting  principles,  and  that  receipts

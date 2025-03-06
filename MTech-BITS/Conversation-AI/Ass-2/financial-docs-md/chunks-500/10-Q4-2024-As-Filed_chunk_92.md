@@ -1,0 +1,3 @@
+Korea, Taiwan and Vietnam. Restrictions on international trade, such as tariffs and other controls on imports or exports of goods,
+technology  or  data,  can  materially  adversely  affect  the  Company’s  business  and  supply  chain.  The  impact  can  be  particularly
+significant  if  these  restrictive  measures  apply  to  countries  and  regions  where  the  Company  derives  a  significant  portion  of  its

@@ -1,0 +1,3 @@
+Because the Company currently obtains certain components from single or limited sources, the Company is subject to significant
+supply  and  pricing  risks.  Many  components,  including  those  that  are  available  from  multiple  sources,  are  at  times  subject  to
+industry-wide  shortages  and  significant  commodity  pricing  fluctuations  that  can  materially  adversely  affect  the  Company’s

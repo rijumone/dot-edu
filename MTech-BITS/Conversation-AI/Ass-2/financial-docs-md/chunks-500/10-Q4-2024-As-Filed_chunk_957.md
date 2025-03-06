@@ -1,0 +1,2 @@
+Participant  may  seek  a  refund  from  the  local  tax  authorities.  In  the  event  of  under-withholding,  the
+Participant may be required to pay additional Tax-Related Items directly to the applicable tax authority or

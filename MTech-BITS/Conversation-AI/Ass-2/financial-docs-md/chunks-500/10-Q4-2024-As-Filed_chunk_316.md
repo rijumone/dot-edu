@@ -1,0 +1,3 @@
+On March 21, 2024, the U.S. Department of Justice (the “DOJ”) and a number of state and district attorneys general filed a civil
+antitrust  lawsuit  in  the  U.S.  District  Court  for  the  District  of  New  Jersey  against  the  Company  alleging  monopolization  or
+attempted  monopolization  in  the  markets  for  “performance  smartphones”  and  “smartphones”  in  violation  of  U.S.  antitrust  laws.

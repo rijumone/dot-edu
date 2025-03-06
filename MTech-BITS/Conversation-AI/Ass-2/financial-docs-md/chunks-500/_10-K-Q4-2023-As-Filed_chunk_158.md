@@ -1,0 +1,1 @@
+The Company’s future performance depends in part on support from third-party software developers.

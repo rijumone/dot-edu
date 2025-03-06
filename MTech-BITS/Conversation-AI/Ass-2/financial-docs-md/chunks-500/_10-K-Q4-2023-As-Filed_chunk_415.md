@@ -1,0 +1,3 @@
+established that reflect the Company’s best estimates of what the selling prices of the performance obligations would be if they
+were  sold  regularly  on  a  stand-alone  basis.  The  Company’s  process  for  estimating  SSPs  without  observable  prices  considers
+multiple  factors  that  may  vary  depending  upon  the  unique  facts  and  circumstances  related  to  each  performance  obligation

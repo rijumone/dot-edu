@@ -1,0 +1,3 @@
+The  Company’s  effective  tax  rate  for  2024  was  higher  than  the  statutory  federal  income  tax  rate  due  primarily  to  a  one-time
+income  tax  charge  of  $10.2  billion,  net,  related  to  the  State  Aid  Decision  (refer  to  Note  7,  “Income  Taxes”  in  the  Notes  to
+Consolidated  Financial  Statements  in  Part  II,  Item  8  of  this  Form  10-K)  and  state  income  taxes,  partially  offset  by  a  lower

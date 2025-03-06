@@ -1,0 +1,2 @@
+taxing authority in the United States, will not be less than the amount provided in the Notes to be then due and
+payable; provided, however, that the foregoing obligation to pay Additional Amounts shall not apply:

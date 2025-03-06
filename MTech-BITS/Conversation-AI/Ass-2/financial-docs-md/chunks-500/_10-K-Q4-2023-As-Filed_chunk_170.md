@@ -1,0 +1,3 @@
+by  March  2024.  The  Company  is  also  subject  to  litigation  and  investigations  relating  to  the  App  Store,  which  have  resulted  in
+changes  to  the  Company’s  business  practices,  and  may  in  the  future  result  in  further  changes.  Changes  have  included  how
+developers communicate with consumers outside the App Store regarding alternative purchasing mechanisms. Future changes

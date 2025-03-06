@@ -1,0 +1,1 @@
+number of Shares subject to the vested RSUs, notwithstanding that a number of the Shares are held back

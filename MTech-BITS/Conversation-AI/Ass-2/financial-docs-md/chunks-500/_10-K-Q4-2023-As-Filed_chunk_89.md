@@ -1,0 +1,2 @@
+The  Company’s  business  can  be  impacted  by  political  events,  trade  and  other  international  disputes,  war,  terrorism,
+natural disasters, public health issues, industrial accidents and other business interruptions.

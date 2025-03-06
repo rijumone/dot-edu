@@ -1,0 +1,1 @@
+“Comparable Government Bond Rate” means the price, expressed as a percentage (rounded to three

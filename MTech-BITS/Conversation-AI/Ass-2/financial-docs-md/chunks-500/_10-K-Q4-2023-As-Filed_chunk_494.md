@@ -1,0 +1,2 @@
+paper was 5.28% and 2.31% as of September 30, 2023 and September 24, 2022, respectively. The following table provides a
+summary of cash flows associated with the issuance and maturities of commercial paper for 2023, 2022 and 2021 (in millions):

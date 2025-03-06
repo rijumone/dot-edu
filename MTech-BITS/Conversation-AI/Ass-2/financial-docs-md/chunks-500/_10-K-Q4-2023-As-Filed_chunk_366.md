@@ -1,0 +1,3 @@
+The  Company  is  subject  to  income  taxes  in  the  U.S.  and  numerous  foreign  jurisdictions.  The  evaluation  of  the  Company’s
+uncertain  tax  positions  involves  significant  judgment  in  the  interpretation  and  application  of  GAAP  and  complex  domestic  and
+international tax laws, including the Act and matters related to the allocation of international taxation rights between countries.

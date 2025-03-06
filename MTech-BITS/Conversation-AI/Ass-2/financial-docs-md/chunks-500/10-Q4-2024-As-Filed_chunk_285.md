@@ -1,0 +1,1 @@
+prepayments, there can be no assurance such procedures will effectively limit its credit risk and avoid losses.

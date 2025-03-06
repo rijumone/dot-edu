@@ -1,0 +1,3 @@
+Adverse  macroeconomic  conditions,  including  slow  growth  or  recession,  high  unemployment,  inflation,  tighter  credit,  higher
+interest  rates,  and  currency  fluctuations,  can  adversely  impact  consumer  confidence  and  spending  and  materially  adversely
+affect  demand  for  the  Company’s  products  and  services.  In  addition,  consumer  confidence  and  spending  can  be  materially

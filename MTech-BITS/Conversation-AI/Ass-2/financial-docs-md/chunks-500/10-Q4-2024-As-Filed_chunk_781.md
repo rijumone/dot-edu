@@ -1,0 +1,1 @@
+event of default or impair any rights consequent thereon.

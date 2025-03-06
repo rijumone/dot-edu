@@ -1,0 +1,3 @@
+In  addition  to  Company-owned  intellectual  property,  many  of  the  Company’s  products  and  services  are  designed  to  include
+intellectual  property  owned  by  third  parties.  It  may  be  necessary  in  the  future  to  seek  or  renew  licenses  relating  to  various
+aspects  of  the  Company’s  products,  processes  and  services.  While  the  Company  has  generally  been  able  to  obtain  such

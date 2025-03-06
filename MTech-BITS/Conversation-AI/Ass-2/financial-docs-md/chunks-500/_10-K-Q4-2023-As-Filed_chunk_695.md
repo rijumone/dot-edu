@@ -1,0 +1,2 @@
+to any Tax required to be withheld by any paying agent from any payment of principal of or interest on
+any Note, if such payment can be made without such withholding by at least one other paying agent;

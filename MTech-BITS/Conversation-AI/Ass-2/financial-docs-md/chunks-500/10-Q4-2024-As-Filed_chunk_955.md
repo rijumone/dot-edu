@@ -1,0 +1,2 @@
+method  (b),  unless  the  Board  or  the  Committee  determines  in  its  discretion  to  satisfy  the  obligation  for
+Tax-Related Items by one or a combination of methods (a), (b), (c), and (d) above.

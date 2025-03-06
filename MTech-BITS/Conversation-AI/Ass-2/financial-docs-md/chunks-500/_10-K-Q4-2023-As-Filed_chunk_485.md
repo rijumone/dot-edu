@@ -1,0 +1,1 @@
+payments on the Company’s leases were $13.9 billion, $14.9 billion and $12.9 billion for 2023, 2022 and 2021, respectively.

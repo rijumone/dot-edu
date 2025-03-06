@@ -1,0 +1,1 @@
+developed and maintained for the Company’s products, customers may choose not to buy the Company’s products.

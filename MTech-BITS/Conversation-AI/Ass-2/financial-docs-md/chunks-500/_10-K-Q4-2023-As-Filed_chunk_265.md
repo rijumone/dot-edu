@@ -1,0 +1,3 @@
+product  pricing  pressures  and  product  pricing  actions  that  the  Company  may  take  in  response  to  such  pressures;  increased
+competition; the Company’s ability to effectively stimulate demand for certain of its products and services; compressed product
+life  cycles;  supply  shortages;  potential  increases  in  the  cost  of  components,  outside  manufacturing  services,  and  developing,

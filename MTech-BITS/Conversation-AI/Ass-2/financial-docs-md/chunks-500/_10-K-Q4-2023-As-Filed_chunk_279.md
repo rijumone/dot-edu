@@ -1,0 +1,3 @@
+has not realized any significant losses on its cash, cash equivalents and marketable securities, future fluctuations in their value
+could result in significant losses and could have a material adverse impact on the Company’s results of operations and financial
+condition.

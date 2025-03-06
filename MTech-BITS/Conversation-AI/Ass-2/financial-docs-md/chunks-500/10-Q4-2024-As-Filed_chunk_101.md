@@ -1,0 +1,3 @@
+Major  public  health  issues,  including  pandemics  such  as  the  COVID-19  pandemic,  have  adversely  affected,  and  could  in  the
+future materially adversely affect, the Company due to their impact on the global economy and demand for consumer products;
+the  imposition  of  protective  public  safety  measures,  such  as  stringent  employee  travel  restrictions  and  limitations  on  freight

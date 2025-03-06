@@ -1,0 +1,2 @@
+negative  consequences  to  the  Company.  While  the  Company  maintains  insurance  coverage  for  certain  types  of  losses,  such
+insurance coverage may be insufficient to cover all losses that may arise.

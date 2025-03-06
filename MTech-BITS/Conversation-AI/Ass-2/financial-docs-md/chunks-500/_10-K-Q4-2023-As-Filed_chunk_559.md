@@ -1,0 +1,3 @@
+Apple Inc.’s management is responsible for maintaining effective internal control over financial reporting, and for its assessment
+of  the  effectiveness  of  internal  control  over  financial  reporting  included  in  the  accompanying  Management’s  Annual  Report  on
+Internal Control over Financial Reporting. Our responsibility is to express an opinion on Apple Inc.’s internal control over financial

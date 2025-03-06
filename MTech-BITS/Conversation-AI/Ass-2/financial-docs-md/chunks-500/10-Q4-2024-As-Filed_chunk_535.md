@@ -1,0 +1,2 @@
+operating  expenses  directly  attributable  to  the  segment.  The  information  provided  to  the  Company’s  chief  operating  decision
+maker for purposes of making decisions and assessing segment performance excludes asset information.

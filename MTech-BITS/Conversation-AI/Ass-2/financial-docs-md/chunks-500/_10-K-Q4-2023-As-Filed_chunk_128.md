@@ -1,0 +1,3 @@
+The  Company  relies  on  single-source  outsourcing  partners  in  the  U.S.,  Asia  and  Europe  to  supply  and  manufacture  many
+components,  and  on  outsourcing  partners  primarily  located  in  Asia,  for  final  assembly  of  substantially  all  of  the  Company’s
+hardware  products.  Any  failure  of  these  partners  to  perform  can  have  a  negative  impact  on  the  Company’s  cost  or  supply  of

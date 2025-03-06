@@ -1,0 +1,3 @@
+The  Company  makes  statements  about  its  use  and  disclosure  of  personal  information  through  its  privacy  policy,  information
+provided  on  its  website,  press  statements  and  other  privacy  notices  provided  to  customers.  Any  failure  by  the  Company  to
+comply with these public statements or with other federal, state or international privacy or data protection laws and regulations

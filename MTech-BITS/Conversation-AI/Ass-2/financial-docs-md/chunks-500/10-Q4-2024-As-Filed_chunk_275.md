@@ -1,0 +1,1 @@
+increase the Company’s cost of product components denominated in those currencies, thus adversely affecting gross margins.

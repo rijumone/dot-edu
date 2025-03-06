@@ -1,0 +1,3 @@
+components.  As  of  September  28,  2024,  the  Company’s  vendor  non-trade  receivables  and  prepayments  related  to  long-term
+supply  agreements  were  concentrated  among  a  few  individual  vendors  located  primarily  in  Asia.  While  the  Company  has
+procedures  to  monitor  and  limit  exposure  to  credit  risk  on  its  trade  and  vendor  non-trade  receivables,  as  well  as  long-term

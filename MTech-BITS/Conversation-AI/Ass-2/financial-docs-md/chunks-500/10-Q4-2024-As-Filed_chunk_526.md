@@ -1,0 +1,1 @@
+Concentrations in the Available Sources of Supply of Materials and Product

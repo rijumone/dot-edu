@@ -1,0 +1,3 @@
+frequently  or  with  more  intense  effects.  Such  events  can  make  it  difficult  or  impossible  for  the  Company  to  manufacture  and
+deliver products to its customers, create delays and inefficiencies in the Company’s supply and manufacturing chain, and result
+in  slowdowns  and  outages  to  the  Company’s  service  offerings,  and  negatively  impact  consumer  spending  and  demand  in

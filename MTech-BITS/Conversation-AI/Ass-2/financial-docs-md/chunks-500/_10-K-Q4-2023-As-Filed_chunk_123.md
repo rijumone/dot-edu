@@ -1,0 +1,3 @@
+Substantially  all  of  the  Company’s  manufacturing  is  performed  in  whole  or  in  part  by  outsourcing  partners  located  primarily  in
+China  mainland,  India,  Japan,  South  Korea,  Taiwan  and  Vietnam,  and  a  significant  concentration  of  this  manufacturing  is
+currently performed by a small number of outsourcing partners, often in single locations. Changes or additions to the Company’s

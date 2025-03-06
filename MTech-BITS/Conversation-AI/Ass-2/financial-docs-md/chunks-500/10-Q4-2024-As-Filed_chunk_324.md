@@ -1,0 +1,3 @@
+The  Company  is  subject  to  other  legal  proceedings  and  claims  that  have  not  been  fully  resolved  and  that  have  arisen  in  the
+ordinary course of business. The Company settled certain matters during the fourth quarter of 2024 that did not individually or in
+the  aggregate  have  a  material  impact  on  the  Company’s  financial  condition  or  operating  results.  The  outcome  of  litigation  is

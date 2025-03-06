@@ -1,0 +1,1 @@
+the markets in which the Company competes have from time to time experienced little to no growth or contracted overall.

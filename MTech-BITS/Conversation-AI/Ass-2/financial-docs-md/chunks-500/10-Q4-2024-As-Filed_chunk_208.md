@@ -1,0 +1,3 @@
+regions or countries, inadequate return on capital, potential impairment of tangible and intangible assets, and significant write-
+offs.  Investment  and  acquisition  transactions  are  exposed  to  additional  risks,  including  failing  to  obtain  required  regulatory
+approvals  on  a  timely  basis  or  at  all,  or  the  imposition  of  onerous  conditions  that  could  delay  or  prevent  the  Company  from

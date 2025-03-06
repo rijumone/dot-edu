@@ -1,0 +1,2 @@
+reasonably possible that its gross unrecognized tax benefits could decrease between approximately $5 billion and $13 billion in
+the next 12 months, primarily related to intercompany transfer pricing and deemed repatriation tax.

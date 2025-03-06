@@ -1,0 +1,3 @@
+The  Company’s  management  is  responsible  for  establishing  and  maintaining  adequate  internal  control  over  financial  reporting
+(as  defined  in  Rule  13a-15(f)  under  the  Exchange  Act).  Management  conducted  an  assessment  of  the  effectiveness  of  the
+Company’s  internal  control  over  financial  reporting  based  on  the  criteria  set  forth  in  Internal  Control  –  Integrated  Framework

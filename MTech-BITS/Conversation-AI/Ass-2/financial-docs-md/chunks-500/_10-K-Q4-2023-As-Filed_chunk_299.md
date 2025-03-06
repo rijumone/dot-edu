@@ -1,0 +1,1 @@
+segments, are in good operating condition and are suitable for the conduct of its business.

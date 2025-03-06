@@ -1,0 +1,2 @@
+including, where applicable, prices charged by the Company for similar offerings, market trends in the pricing for similar offerings,
+product-specific business objectives and the estimated cost to provide the performance obligation.

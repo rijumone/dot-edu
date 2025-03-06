@@ -1,0 +1,3 @@
+23,  2023.  On  September  10,  2024,  the  ECJ  announced  that  it  had  set  aside  the  2020  judgment  of  the  General  Court  and
+confirmed  the  Commission’s  2016  State  Aid  Decision.  As  a  result,  during  the  fourth  quarter  of  2024  the  Company  recorded  a
+one-time  income  tax  charge  of  $10.2  billion,  net,  which  represents  $15.8  billion  payable  to  Ireland  via  release  of  the  escrow,

@@ -1,0 +1,3 @@
+2024,  the  Company  implemented  a  plan  to  comply  with  the  injunction  and  filed  a  statement  of  compliance  with  the  California
+District  Court.  A  motion  by  Epic  disputing  the  Company’s  compliance  plan  and  seeking  to  enforce  the  injunction,  which  the
+Company has opposed, is pending before the California District Court. On September 30, 2024, the Company filed a motion with

@@ -1,0 +1,3 @@
+covered  by  collateral,  third-party  bank  support  or  financing  arrangements,  or  credit  insurance,  and  a  significant  portion  of  the
+Company’s trade receivables can be concentrated within cellular network carriers or other resellers. The Company’s exposure to
+credit and collectibility risk on its trade receivables is higher in certain international markets and its ability to mitigate such risks

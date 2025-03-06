@@ -1,0 +1,3 @@
+apply  to  countries  and  regions  where  the  Company  derives  a  significant  portion  of  its  revenues  and/or  has  significant  supply
+chain  operations.  Restrictive  measures  can  require  the  Company  to  take  various  actions,  including  changing  suppliers,
+restructuring  business  relationships,  and  ceasing  to  offer  third-party  applications  on  its  platforms.  Changing  the  Company’s

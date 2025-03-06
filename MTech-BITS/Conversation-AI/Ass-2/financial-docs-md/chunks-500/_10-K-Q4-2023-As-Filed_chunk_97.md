@@ -1,0 +1,3 @@
+Many of the Company’s operations and facilities, as well as critical business operations of the Company’s suppliers and contract
+manufacturers,  are  in  locations  that  are  prone  to  earthquakes  and  other  natural  disasters.  In  addition,  such  operations  and
+facilities  are  subject  to  the  risk  of  interruption  by  fire,  power  shortages,  nuclear  power  plant  accidents  and  other  industrial

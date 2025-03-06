@@ -1,0 +1,2 @@
+both petitions. On July 17, 2023, the Circuit Court granted Apple’s motion to stay enforcement of the injunction pending appeal to
+the U.S. Supreme Court. If the U.S. Supreme Court denies Apple’s petition, the stay of the injunction will expire.

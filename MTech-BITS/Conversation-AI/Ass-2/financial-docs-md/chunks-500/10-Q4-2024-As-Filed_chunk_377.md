@@ -1,0 +1,1 @@
+the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities.

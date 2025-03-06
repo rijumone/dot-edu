@@ -1,0 +1,2 @@
+year 2023 spanned 53 weeks. Unless otherwise stated, references to particular years, quarters, months and periods refer to the
+Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years.

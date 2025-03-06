@@ -1,0 +1,2 @@
+property rights is an important factor in differentiating its business and that its success does depend in part on such ownership,
+the Company relies primarily on the innovative skills, technical competence and marketing abilities of its personnel.

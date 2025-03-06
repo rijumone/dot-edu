@@ -1,0 +1,2 @@
+knowledge  and  skills  gained  from  over  25  years  of  experience  in  the  cybersecurity  industry,  including  serving  in  leadership
+positions at other large technology companies and leading the Company’s Information Security team since 2016.

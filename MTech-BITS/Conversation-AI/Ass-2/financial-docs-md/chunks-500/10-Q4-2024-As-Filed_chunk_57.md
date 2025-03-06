@@ -1,0 +1,3 @@
+The  Company  currently  holds  a  broad  collection  of  intellectual  property  rights  relating  to  certain  aspects  of  its  hardware,
+accessories,  software  and  services.  This  includes  patents,  designs,  copyrights,  trademarks,  trade  secrets  and  other  forms  of
+intellectual  property  rights  in  the  U.S.  and  various  foreign  countries.  Although  the  Company  believes  the  ownership  of  such

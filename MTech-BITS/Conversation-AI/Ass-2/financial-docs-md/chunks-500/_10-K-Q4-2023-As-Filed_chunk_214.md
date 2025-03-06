@@ -1,0 +1,3 @@
+The  Company  is  subject  to  various  claims,  legal  proceedings  and  government  investigations  that  have  arisen  in  the  ordinary
+course  of  business  and  have  not  yet  been  fully  resolved,  and  new  matters  may  arise  in  the  future.  In  addition,  agreements
+entered  into  by  the  Company  sometimes  include  indemnification  provisions  which  can  subject  the  Company  to  costs  and

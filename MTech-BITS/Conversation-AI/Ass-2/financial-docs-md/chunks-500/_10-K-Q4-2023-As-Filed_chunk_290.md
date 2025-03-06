@@ -1,0 +1,3 @@
+The Company is also subject to the examination of its tax returns and other tax matters by the U.S. Internal Revenue Service
+and  other  tax  authorities  and  governmental  bodies.  The  Company  regularly  assesses  the  likelihood  of  an  adverse  outcome
+resulting  from  these  examinations  to  determine  the  adequacy  of  its  provision  for  taxes.  There  can  be  no  assurance  as  to  the

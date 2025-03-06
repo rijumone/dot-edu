@@ -1,0 +1,3 @@
+The  Company’s  global  operations  are  subject  to  complex  and  changing  laws  and  regulations  on  subjects,  including  antitrust;
+privacy, data security and data localization; consumer protection; advertising, sales, billing and e-commerce; financial services
+and  technology;  product  liability;  intellectual  property  ownership  and  infringement;  digital  platforms;  machine  learning  and

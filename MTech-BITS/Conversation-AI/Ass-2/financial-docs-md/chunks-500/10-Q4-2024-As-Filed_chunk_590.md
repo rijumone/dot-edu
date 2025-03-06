@@ -1,0 +1,2 @@
+Ms. O’Brien, excluding any shares withheld by the Company to satisfy income tax withholding and remittance obligations. Ms.
+O’Brien’s plan will expire on December 31, 2026, subject to early termination in accordance with the terms of the plan.

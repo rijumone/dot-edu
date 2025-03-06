@@ -1,0 +1,1 @@
+15,115,823,000 shares of common stock were issued and outstanding as of October 18, 2024.

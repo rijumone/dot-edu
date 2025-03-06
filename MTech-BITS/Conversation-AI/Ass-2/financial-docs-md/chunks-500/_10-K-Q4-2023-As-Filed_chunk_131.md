@@ -1,0 +1,2 @@
+problems or other disruptions in their business, such continued supply can be reduced or terminated, and the recoverability of
+manufacturing process equipment or prepayments can be negatively impacted.

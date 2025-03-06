@@ -1,0 +1,3 @@
+to  civil  antitrust  lawsuits  in  the  U.S.  alleging  monopolization  or  attempted  monopolization  in  the  markets  for  “performance
+smartphones”  and  “smartphones”  generally  in  violation  of  U.S.  antitrust  laws.  In  addition,  the  Company  is  the  subject  of
+investigations in Europe and other jurisdictions relating to App Store terms and conditions. If such investigations or litigation are

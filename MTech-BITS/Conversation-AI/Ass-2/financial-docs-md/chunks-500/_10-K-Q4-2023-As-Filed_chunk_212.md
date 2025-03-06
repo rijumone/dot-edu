@@ -1,0 +1,2 @@
+construction and operation; manage relationships with existing retail partners; manage costs associated with fluctuations in the
+value of retail inventory; and obtain and renew leases in quality retail locations at a reasonable cost.

@@ -1,0 +1,2 @@
+channels,  such  as  third-party  cellular  network  carriers,  wholesalers,  retailers  and  resellers.  During  2023,  the  Company’s  net
+sales through its direct and indirect distribution channels accounted for 37% and 63%, respectively, of total net sales.

@@ -1,0 +1,3 @@
+In  addition  to  the  risks  generally  relating  to  the  collection,  use,  retention,  security  and  transfer  of  personal  information,  the
+Company is also subject to specific obligations relating to information considered sensitive under applicable laws, such as health
+data,  financial  data  and  biometric  data.  Health  data  and  financial  data  are  subject  to  additional  privacy,  security  and  breach

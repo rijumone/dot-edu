@@ -1,0 +1,3 @@
+The Company regularly files patent, design, copyright and trademark applications to protect innovations arising from its research,
+development,  design  and  marketing,  and  is  currently  pursuing  thousands  of  applications  around  the  world.  Over  time,  the
+Company  has  accumulated  a  large  portfolio  of  issued  and  registered  intellectual  property  rights  around  the  world.  No  single

@@ -1,0 +1,2 @@
+seek to limit the Company’s access to, or increase the cost of, such content. The Company may be unable to continue to offer a
+wide variety of content at commercially reasonable prices with acceptable usage rules.

@@ -1,0 +1,1 @@
+adoption of technological advancements by competitors, and price sensitivity on the part of consumers and businesses.

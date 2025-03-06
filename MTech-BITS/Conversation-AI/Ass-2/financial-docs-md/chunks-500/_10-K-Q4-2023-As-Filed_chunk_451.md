@@ -1,0 +1,3 @@
+Company generally uses master netting arrangements with the respective counterparties to the Company’s derivative contracts,
+under  which  the  Company  is  allowed  to  settle  transactions  with  a  single  net  amount  payable  by  one  party  to  the  other.  As  of
+September 24, 2022, the potential effects of these rights of set-off associated with the Company’s derivative contracts, including

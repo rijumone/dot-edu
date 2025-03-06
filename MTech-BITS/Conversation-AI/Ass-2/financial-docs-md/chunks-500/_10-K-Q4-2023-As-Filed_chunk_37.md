@@ -1,0 +1,3 @@
+The Company’s customers are primarily in the consumer, small and mid-sized business, education, enterprise and government
+markets.  The  Company  sells  its  products  and  resells  third-party  products  in  most  of  its  major  markets  directly  to  customers
+through  its  retail  and  online  stores  and  its  direct  sales  force.  The  Company  also  employs  a  variety  of  indirect  distribution

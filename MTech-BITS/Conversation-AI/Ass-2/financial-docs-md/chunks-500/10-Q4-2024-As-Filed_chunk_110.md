@@ -1,0 +1,3 @@
+The  Company  currently  holds  a  significant  number  of  patents,  trademarks  and  copyrights  and  has  registered,  and  applied  to
+register,  additional  patents,  trademarks  and  copyrights.  In  contrast,  many  of  the  Company’s  competitors  seek  to  compete
+primarily  through  aggressive  pricing  and  very  low  cost  structures,  and  by  imitating  the  Company’s  products  and  infringing  on

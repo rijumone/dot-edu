@@ -1,0 +1,1 @@
+The Company is exposed to credit risk and fluctuations in the values of its investment portfolio.

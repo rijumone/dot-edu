@@ -1,0 +1,3 @@
+Economic Co-operation and Development continues to advance proposals for modernizing international tax rules, including the
+introduction of global minimum tax standards. The Company’s effective tax rates are affected by changes in the mix of earnings
+in  countries  with  differing  statutory  tax  rates,  changes  in  the  valuation  of  deferred  tax  assets  and  liabilities,  the  introduction  of

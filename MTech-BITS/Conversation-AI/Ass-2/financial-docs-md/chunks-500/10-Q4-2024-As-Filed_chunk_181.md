@@ -1,0 +1,1 @@
+The Company depends on the performance of carriers, wholesalers, retailers and other resellers.

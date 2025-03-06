@@ -1,0 +1,3 @@
+The  Company  distributes  its  products  and  certain  of  its  services  through  cellular  network  carriers,  wholesalers,  retailers  and
+resellers,  many  of  which  distribute  products  and  services  from  competitors.  The  Company  also  sells  its  products  and  services
+and  resells  third-party  products  in  most  of  its  major  markets  directly  to  consumers,  small  and  mid-sized  businesses,  and

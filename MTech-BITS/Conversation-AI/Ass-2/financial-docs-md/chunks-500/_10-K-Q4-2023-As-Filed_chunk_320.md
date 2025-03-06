@@ -1,0 +1,1 @@
+Company’s common stock during the ASRs’ purchase periods, which end in the first quarter of 2024.

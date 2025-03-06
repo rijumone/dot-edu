@@ -1,0 +1,3 @@
+The aggregate market value of the voting and non-voting stock held by non-affiliates of the Registrant, as of March 29, 2024, the last business
+day  of  the  Registrant’s  most  recently  completed  second  fiscal  quarter,  was  approximately  $2,628,553,000,000.  Solely  for  purposes  of  this
+disclosure, shares of common stock held by executive officers and directors of the Registrant as of such date have been excluded because such

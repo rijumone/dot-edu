@@ -1,0 +1,3 @@
+The Company’s exposure to foreign exchange rate risk relates primarily to the Company being a net receiver of currencies other
+than  the  U.S.  dollar.  Changes  in  exchange  rates,  and  in  particular  a  strengthening  of  the  U.S.  dollar,  will  negatively  affect  the
+Company’s  net  sales  and  gross  margins  as  expressed  in  U.S.  dollars.  Fluctuations  in  exchange  rates  may  also  affect  the  fair

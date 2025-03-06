@@ -1,0 +1,3 @@
+Although  most  components  essential  to  the  Company’s  business  are  generally  available  from  multiple  sources,  certain
+components  are  currently  obtained  from  single  or  limited  sources.  The  Company  also  competes  for  various  components  with
+other  participants  in  the  markets  for  smartphones,  personal  computers,  tablets,  wearables  and  accessories.  Therefore,  many

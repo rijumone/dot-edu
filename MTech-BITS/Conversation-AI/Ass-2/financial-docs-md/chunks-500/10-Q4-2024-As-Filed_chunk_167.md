@@ -1,0 +1,3 @@
+The  Company  distributes  third-party  applications  for  its  products  through  the  App  Store.  For  the  vast  majority  of  applications,
+developers keep all of the revenue they generate on the App Store. Where applicable, the Company retains a commission from
+sales of applications and sales of digital services or goods initiated within an application. From time to time, the Company has

@@ -1,0 +1,3 @@
+The  Company  relies  on  the  continued  availability  and  development  of  compelling  and  innovative  software  applications  for  its
+products.  The  Company’s  products  and  operating  systems  are  subject  to  rapid  technological  change,  and  when  third-party
+developers are unable to or choose not to keep up with this pace of change, their applications can fail to take advantage of these

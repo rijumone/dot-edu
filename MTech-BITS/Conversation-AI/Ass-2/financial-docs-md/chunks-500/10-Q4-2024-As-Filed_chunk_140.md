@@ -1,0 +1,4 @@
+Apple Inc. | 2024 Form 10-K | 8
+
+The Company’s products and services may be affected from time to time by design and manufacturing defects that could
+materially adversely affect the Company’s business and result in harm to the Company’s reputation.

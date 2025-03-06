@@ -1,0 +1,3 @@
+On  August  29,  2024,  Jeff  Williams,  the  Company’s  Chief  Operating  Officer,  entered  into  a  trading  plan  intended  to  satisfy  the
+affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale, subject to certain price
+limits, of up to 100,000 shares of common stock, as well as shares vesting between April 1, 2025 and October 1, 2025, pursuant

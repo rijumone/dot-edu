@@ -1,0 +1,2 @@
+increased. The continued availability of these components at acceptable prices, or at all, may be affected if suppliers decide to
+concentrate on the production of common components instead of components customized to meet the Company’s requirements.

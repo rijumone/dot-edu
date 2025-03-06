@@ -1,0 +1,3 @@
+Adverse  economic  conditions  can  also  lead  to  increased  credit  and  collectibility  risk  on  the  Company’s  trade  receivables;  the
+failure of derivative counterparties and other financial institutions; limitations on the Company’s ability to issue new debt; reduced
+liquidity;  and  declines  in  the  fair  values  of  the  Company’s  financial  instruments.  These  and  other  impacts  can  materially

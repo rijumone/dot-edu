@@ -1,0 +1,3 @@
+The Company is subject to an increasing number of federal, state and international laws relating to the collection, use, retention,
+security  and  transfer  of  various  types  of  personal  information.  In  many  cases,  these  laws  apply  not  only  to  third-party
+transactions,  but  also  restrict  transfers  of  personal  information  among  the  Company  and  its  international  subsidiaries.  Several

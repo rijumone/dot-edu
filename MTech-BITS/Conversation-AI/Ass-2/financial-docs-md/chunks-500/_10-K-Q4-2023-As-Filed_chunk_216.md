@@ -1,0 +1,3 @@
+The Company has faced and continues to face a significant number of patent claims relating to its cellular-enabled products, and
+new  claims  may  arise  in  the  future,  including  as  a  result  of  new  legal  or  regulatory  frameworks.  For  example,  technology  and
+other  patent-holding  companies  frequently  assert  their  patents  and  seek  royalties  and  often  enter  into  litigation  based  on

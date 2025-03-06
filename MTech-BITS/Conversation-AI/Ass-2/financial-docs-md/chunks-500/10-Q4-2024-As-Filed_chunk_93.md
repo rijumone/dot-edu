@@ -1,0 +1,3 @@
+revenues and/or has significant supply chain operations. Restrictive measures can increase the cost of the Company’s products
+and  the  components  and  raw  materials  that  go  into  them,  and  can  require  the  Company  to  take  various  actions,  including
+changing  suppliers,  restructuring  business  relationships  and  operations,  and  ceasing  to  offer  and  distribute  affected  products,

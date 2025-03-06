@@ -1,0 +1,3 @@
+(1) As  of  September  28,  2024,  the  Company  was  authorized  by  the  Board  to  purchase  up  to  $110  billion  of  the  Company’s
+common  stock  under  a  share  repurchase  program  announced  on  May  2,  2024,  of  which  $20.9  billion  had  been  utilized.
+During  the  fourth  quarter  of  2024,  the  Company  also  utilized  the  final  $4.1  billion  under  its  previous  repurchase  program,

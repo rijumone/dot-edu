@@ -1,0 +1,1 @@
+An amendment of the Bylaws or the Articles may be adopted by the vote of the majority of the outstanding

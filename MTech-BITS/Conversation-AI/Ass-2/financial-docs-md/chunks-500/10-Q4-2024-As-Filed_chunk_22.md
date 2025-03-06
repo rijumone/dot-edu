@@ -1,0 +1,3 @@
+macroeconomic  conditions  on  the  Company’s  business  and  results  of  operations  are  forward-looking  statements.  Forward-
+looking  statements  can  also  be  identified  by  words  such  as  “future,”  “anticipates,”  “believes,”  “estimates,”  “expects,”
+“intends,”  “plans,”  “predicts,”  “will,”  “would,”  “could,”  “can,”  “may,”  and  similar  terms.  Forward-looking  statements  are  not

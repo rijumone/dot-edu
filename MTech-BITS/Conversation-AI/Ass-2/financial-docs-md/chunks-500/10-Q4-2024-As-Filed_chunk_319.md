@@ -1,0 +1,3 @@
+Epic  Games,  Inc.  (“Epic”)  filed  a  lawsuit  in  the  U.S.  District  Court  for  the  Northern  District  of  California  (the  “California  District
+Court”) against the Company alleging violations of federal and state antitrust laws and California’s unfair competition law based
+upon the Company’s operation of its App Store. The California District Court found that certain provisions of the Company’s App

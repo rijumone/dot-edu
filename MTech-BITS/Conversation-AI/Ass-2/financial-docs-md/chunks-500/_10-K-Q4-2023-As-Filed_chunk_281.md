@@ -1,0 +1,3 @@
+The  Company  distributes  its  products  and  certain  of  its  services  through  third-party  cellular  network  carriers,  wholesalers,
+retailers  and  resellers.  The  Company  also  sells  its  products  and  services  directly  to  small  and  mid-sized  businesses  and
+education, enterprise and government customers. A substantial majority of the Company’s outstanding trade receivables are not

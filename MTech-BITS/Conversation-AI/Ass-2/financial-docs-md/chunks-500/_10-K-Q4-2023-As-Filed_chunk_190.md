@@ -1,0 +1,3 @@
+The  Company  and  its  global  supply  chain  are  dependent  on  complex  information  technology  systems  and  are  exposed  to
+information  technology  system  failures  or  network  disruptions  caused  by  natural  disasters,  accidents,  power  disruptions,
+telecommunications  failures,  acts  of  terrorism  or  war,  computer  viruses,  physical  or  electronic  break-ins,  ransomware  or  other

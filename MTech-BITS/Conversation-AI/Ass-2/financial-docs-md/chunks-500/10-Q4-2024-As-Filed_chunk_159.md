@@ -1,0 +1,3 @@
+The Company believes decisions by customers to purchase its hardware products depend in part on the availability of third-party
+software  applications  and  services.  There  can  be  no  assurance  third-party  developers  will  continue  to  develop  and  maintain
+software  applications  and  services  for  the  Company’s  products.  If  third-party  software  applications  and  services  cease  to  be
