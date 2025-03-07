@@ -147,18 +147,20 @@ def hybrid_confidence(query, doc, alpha=0.5):
 # Input Guardrail
 def is_valid_input(user_query):
     """Check if input is non-toxic and relevant."""
-    from transformers import pipeline
-    toxicity_filter = pipeline("text-classification", model="unitary/unbiased-toxic-roberta")
-    toxicity_score = toxicity_filter(user_query)[0]["score"]
-    logger.info(f"Toxicity score: {toxicity_score}")
-    if toxicity_score > 0.5:
+    # from transformers import pipeline
+    # toxicity_filter = pipeline("text-classification", model="unitary/unbiased-toxic-roberta")
+    # toxicity_score = toxicity_filter(user_query)[0]["score"]
+    # logger.info(f"Toxicity score: {toxicity_score}")
+    # if toxicity_score > 0.5:
+    #     return False, "Your input violates community guidelines."
+    from better_profanity import profanity
+    if profanity.contains_profanity(user_query):
         return False, "Your input violates community guidelines."
-
     return True, None
 
 def main():
     # Read chunks and create BM25 index
-    data_dir = "./MTech-BITS/Conversation-AI/Ass-2/financial-docs-md/chunks-500"
+    data_dir = "./financial-docs-md/chunks-500"
     md_files = glob.glob(f"{data_dir}/*.md")
     # print(md_files)
     if 'chunks' not in st.session_state:
