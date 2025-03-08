@@ -1,0 +1,16 @@
+[Unit]
+Description=Conv AI Ass 2 Service (with tmux)
+After=network.target
+
+[Service]
+Type=forking
+ExecStart=/bin/bash -c 'source /home/admin/Kitchen/dot-edu/MTech-BITS/Conversation-AI/Ass-2/.env && /home/admin/Kitchen/dot-edu/MTech-BITS/Conversation-AI/Ass-2/.tmux_manager.sh conv-ai-grp-09 /home/admin/Kitchen/dot-edu/MTech-BITS/Conversation-AI/Ass-2 start'
+ExecStop=/bin/bash -c '/home/admin/Kitchen/dot-edu/MTech-BITS/Conversation-AI/Ass-2/.tmux_manager.sh conv-ai-grp-09 /home/admin/Kitchen/dot-edu/MTech-BITS/Conversation-AI/Ass-2 stop'
+Restart=on-failure
+RemainAfterExit=yes
+User=admin
+TimeoutSec=150
+WorkingDirectory=/home/admin/Kitchen/dot-edu/MTech-BITS/Conversation-AI/Ass-2
+
+[Install]
+WantedBy=multi-user.target

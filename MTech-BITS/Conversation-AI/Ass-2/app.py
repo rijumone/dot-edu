@@ -147,15 +147,15 @@ def hybrid_confidence(query, doc, alpha=0.5):
 # Input Guardrail
 def is_valid_input(user_query):
     """Check if input is non-toxic and relevant."""
-    # from transformers import pipeline
-    # toxicity_filter = pipeline("text-classification", model="unitary/unbiased-toxic-roberta")
-    # toxicity_score = toxicity_filter(user_query)[0]["score"]
-    # logger.info(f"Toxicity score: {toxicity_score}")
-    # if toxicity_score > 0.5:
-    #     return False, "Your input violates community guidelines."
-    from better_profanity import profanity
-    if profanity.contains_profanity(user_query):
+    from transformers import pipeline
+    toxicity_filter = pipeline("text-classification", model="unitary/unbiased-toxic-roberta")
+    toxicity_score = toxicity_filter(user_query)[0]["score"]
+    logger.info(f"Toxicity score: {toxicity_score}")
+    if toxicity_score > 0.5:
         return False, "Your input violates community guidelines."
+    # from better_profanity import profanity
+    # if profanity.contains_profanity(user_query):
+    #     return False, "Your input violates community guidelines."
     return True, None
 
 def main():
