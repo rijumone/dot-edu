@@ -20,6 +20,7 @@ elif [ "$ACTION" == "start" ]; then
         echo "Tmux session $SESSION_NAME already started."
     else
         echo "Starting new tmux session: $SESSION_NAME"
+	tmux set-option -g update-environment "$(env | cut -d= -f1 | tr '\n' ' ')"
         tmux new -d -s "$SESSION_NAME" "$CMD"
     fi
     exit 0
