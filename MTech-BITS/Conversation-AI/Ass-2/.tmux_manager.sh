@@ -3,7 +3,7 @@
 SESSION_NAME=$1
 WORK_DIR=$2
 ACTION=$3  # start or stop
-CMD=".venv/bin/python -m streamlit run --server.port 5617 main.py"
+CMD=".venv/bin/python -m streamlit run --server.port 5617 app.py"
 
 cd "$WORK_DIR" || exit 1
 
