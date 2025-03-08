@@ -170,6 +170,8 @@ def main():
     
     st.set_page_config(page_title='AAPL Financials Chatbot', page_icon='📈')
     st.title(" Think different")
+    st.markdown('## Assignment 2 - RAG Chatbot')
+    st.markdown('#### Develop a Retrieval-Augmented Generation (RAG) model to answer financial questions based on company financial statements (last two years).')
     def chat_callback():
         if 'messages' not in st.session_state:
             st.session_state.messages = []
@@ -205,19 +207,19 @@ def main():
         }
         st.session_state.messages.append(response_msg)
 
-    # Add model selection dropdown
-    available_models = [
-        # "deepseek-r1:1.5b",
-        # "deepseek-r1:7b",
-        # "llama3.2:latest",
-        # "llama3.2:1b",
-        "phi4:latest",
-        "gemma2:latest",
-    ]
-    selected_model = st.selectbox("Select AI Model", available_models, index=0)
-    if 'selected_model' not in st.session_state:
-        st.session_state.selected_model = selected_model
-
+    # # Add model selection dropdown
+    # available_models = [
+    #     # "deepseek-r1:1.5b",
+    #     # "deepseek-r1:7b",
+    #     # "llama3.2:latest",
+    #     # "llama3.2:1b",
+    #     "phi4:latest",
+    #     "gemma2:latest",
+    # ]
+    # selected_model = st.selectbox("Select AI Model", available_models, index=0)
+    # if 'selected_model' not in st.session_state:
+    #     st.session_state.selected_model = selected_model
+    st.session_state.selected_model = "phi4:latest"
     
     if 'llm' not in st.session_state:
         st.session_state.llm = get_ollama_llm(
