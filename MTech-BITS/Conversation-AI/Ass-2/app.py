@@ -177,6 +177,12 @@ def main():
             st.session_state.messages = []
         user_input = st.session_state.user_input
         valid, message = is_valid_input(user_input)
+        logger.info(f'user_input: {user_input}')
+        _message = {
+            "role": "user",
+            "content": user_input,
+        }
+        st.session_state.messages.append(_message)
         if not valid:
             response_msg = {
                 "role": "assistant",
@@ -185,12 +191,6 @@ def main():
             st.session_state.messages.append(response_msg)
             return
         
-        logger.info(f'user_input: {user_input}')
-        message = {
-            "role": "user",
-            "content": user_input,
-        }
-        st.session_state.messages.append(message)
         retrieved_docs = fetch_ranked_relevant_docs(user_input)
         st.sidebar.markdown(f'User query: ```{user_input}```')
         st.sidebar.markdown(f'Retrieved doc chunks:')
